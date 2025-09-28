@@ -1,0 +1,3651 @@
+Order ID,Product,Quantity,Price,Order Date,Region
+1,Product C,2,91,2023-12-30,Asia
+2,Product D,3,22,2023-04-22,Asia
+3,Product A,2,52,2023-01-07,Europe
+4,Product C,3,94,2023-08-18,South America
+5,Product C,2,30,2023-06-05,North America
+6,Product D,2,64,2023-07-16,South America
+7,Product A,1,90,2023-11-19,Europe
+8,Product A,4,49,2023-12-30,North America
+9,Product C,4,92,2023-08-11,Europe
+10,Product B,3,24,2023-09-07,South America
+11,Product C,4,82,2023-03-24,Asia
+12,Product C,2,61,2023-08-28,Europe
+13,Product C,2,83,2023-12-26,Europe
+14,Product C,1,62,2023-11-19,Asia
+15,Product D,1,96,2023-09-20,South America
+16,Product A,4,61,2023-07-08,Europe
+17,Product D,3,39,2023-10-17,South America
+18,Product D,4,42,2023-12-28,Asia
+19,Product D,4,66,2023-02-27,North America
+20,Product C,4,61,2023-01-09,Europe
+21,Product B,4,18,2023-10-31,South America
+22,Product A,2,63,2023-04-25,Asia
+23,Product B,3,10,2023-07-29,Asia
+24,Product D,2,53,2023-02-10,Europe
+25,Product D,3,84,2023-10-31,North America
+26,Product B,1,89,2023-06-22,Europe
+27,Product B,4,18,2023-08-22,South America
+28,Product B,2,41,2023-10-08,Asia
+29,Product D,3,24,2023-03-19,North America
+30,Product D,1,21,2023-04-18,South America
+31,Product A,1,87,2023-10-08,Europe
+32,Product A,4,66,2023-02-08,Asia
+33,Product D,3,17,2023-04-29,Europe
+34,Product B,2,81,2023-12-01,North America
+35,Product B,4,36,2023-12-02,North America
+36,Product A,2,71,2023-01-27,North America
+37,Product D,1,21,2023-04-14,North America
+38,Product A,2,74,2023-03-15,North America
+39,Product A,2,51,2023-07-10,Europe
+40,Product C,4,71,2023-11-20,North America
+41,Product C,2,20,2023-05-27,North America
+42,Product C,4,52,2023-09-12,Asia
+43,Product B,1,26,2023-10-11,North America
+44,Product D,4,41,2023-08-01,Asia
+45,Product D,4,94,2023-05-03,Asia
+46,Product D,3,94,2023-07-25,Asia
+47,Product D,2,49,2023-08-28,Europe
+48,Product C,1,32,2023-12-05,Europe
+49,Product B,4,65,2023-10-13,South America
+50,Product B,1,15,2023-01-22,South America
+51,Product C,3,95,2023-09-16,Asia
+52,Product B,2,59,2023-12-23,Europe
+53,Product C,4,46,2023-04-15,North America
+54,Product D,2,73,2023-09-15,South America
+55,Product C,3,63,2023-07-23,Europe
+56,Product D,3,81,2023-11-06,North America
+57,Product D,1,58,2023-09-19,North America
+58,Product A,4,20,2023-04-17,Europe
+59,Product C,1,97,2023-09-08,South America
+60,Product A,3,58,2023-08-09,Europe
+61,Product C,2,30,2023-08-10,South America
+62,Product C,1,75,2023-09-15,Asia
+63,Product A,1,72,2023-07-20,Europe
+64,Product A,2,92,2023-09-15,Europe
+65,Product C,1,37,2023-12-15,South America
+66,Product B,2,26,2023-08-13,South America
+67,Product D,4,15,2023-07-21,Europe
+68,Product A,2,28,2023-08-14,North America
+69,Product D,4,65,2023-08-24,North America
+70,Product B,2,37,2023-07-02,North America
+71,Product B,3,75,2023-07-19,Asia
+72,Product B,3,47,2023-12-23,Asia
+73,Product A,4,46,2023-09-03,South America
+74,Product B,4,77,2023-12-19,Asia
+75,Product A,3,95,2023-04-21,North America
+76,Product B,4,99,2023-01-06,Europe
+77,Product D,2,58,2023-08-24,Asia
+78,Product D,2,52,2023-05-07,Asia
+79,Product C,3,45,2023-04-14,North America
+80,Product D,1,67,2023-08-25,Asia
+81,Product C,2,22,2023-06-04,South America
+82,Product D,4,61,2023-09-14,Europe
+83,Product A,1,67,2023-08-23,North America
+84,Product D,1,41,2023-10-16,South America
+85,Product C,2,90,2023-02-09,North America
+86,Product C,2,69,2023-10-15,South America
+87,Product B,1,92,2023-07-16,Europe
+88,Product A,1,67,2023-09-30,Europe
+89,Product D,3,65,2023-09-21,South America
+90,Product B,4,37,2023-02-26,South America
+91,Product D,3,10,2023-10-25,South America
+92,Product D,2,51,2023-04-08,South America
+93,Product B,3,91,2023-05-17,South America
+94,Product B,3,57,2023-03-28,South America
+95,Product B,3,49,2023-08-30,Europe
+96,Product B,3,72,2023-07-18,South America
+97,Product B,4,85,2023-11-06,Asia
+98,Product D,4,81,2023-03-25,Europe
+99,Product B,1,97,2023-08-30,North America
+100,Product A,2,89,2023-10-08,Europe
+101,Product C,3,13,2023-11-19,North America
+102,Product B,1,47,2023-09-09,North America
+103,Product B,1,36,2023-07-09,Asia
+104,Product D,1,18,2023-06-01,South America
+105,Product B,4,25,2023-10-29,South America
+106,Product B,3,65,2023-10-05,Europe
+107,Product B,3,85,2023-05-19,South America
+108,Product D,2,40,2023-06-25,Asia
+109,Product B,3,97,2023-01-08,Europe
+110,Product C,3,23,2023-10-22,Europe
+111,Product D,1,34,2023-08-23,Europe
+112,Product C,2,43,2023-06-12,South America
+113,Product D,3,76,2023-02-18,South America
+114,Product B,4,33,2023-10-29,South America
+115,Product C,3,82,2023-02-07,Europe
+116,Product D,1,35,2023-05-16,Europe
+117,Product A,4,29,2023-11-06,North America
+118,Product B,1,73,2023-08-07,North America
+119,Product D,3,19,2023-12-14,South America
+120,Product A,4,92,2023-10-23,Europe
+121,Product D,2,76,2023-02-03,South America
+122,Product A,2,33,2023-12-18,South America
+123,Product B,4,14,2023-03-20,North America
+124,Product C,4,76,2023-08-24,Asia
+125,Product A,1,67,2023-09-30,South America
+126,Product D,4,36,2023-06-10,Asia
+127,Product B,1,89,2023-06-24,Asia
+128,Product A,3,24,2023-11-04,Europe
+129,Product D,1,44,2023-08-09,Europe
+130,Product D,4,85,2023-01-09,South America
+131,Product D,4,62,2023-10-16,North America
+132,Product A,3,53,2023-04-23,North America
+133,Product A,4,35,2023-07-24,South America
+134,Product A,4,56,2023-07-05,South America
+135,Product C,2,43,2023-12-07,North America
+136,Product A,2,96,2023-07-16,Asia
+137,Product A,3,59,2023-09-23,South America
+138,Product A,1,93,2023-09-19,Asia
+139,Product C,2,21,2023-09-05,South America
+140,Product A,1,96,2023-04-25,South America
+141,Product D,4,13,2023-05-01,Asia
+142,Product A,2,96,2023-05-21,Asia
+143,Product D,3,57,2023-03-06,North America
+144,Product D,3,64,2023-10-03,South America
+145,Product D,3,10,2023-11-09,Europe
+146,Product C,2,98,2023-08-27,Europe
+147,Product C,1,75,2023-10-29,South America
+148,Product C,4,39,2023-01-10,South America
+149,Product A,1,12,2023-08-21,South America
+150,Product D,1,30,2023-07-14,Asia
+151,Product C,4,98,2023-01-12,Europe
+152,Product C,4,93,2023-06-26,Europe
+153,Product A,2,58,2023-06-26,Europe
+154,Product C,2,95,2023-08-05,South America
+155,Product A,2,94,2023-01-11,Asia
+156,Product B,2,71,2023-04-28,South America
+157,Product C,2,47,2023-06-13,North America
+158,Product B,4,24,2023-02-08,North America
+159,Product A,1,61,2023-02-22,Europe
+160,Product D,2,88,2023-08-06,South America
+161,Product C,2,55,2023-07-25,North America
+162,Product A,1,34,2023-11-08,North America
+163,Product D,2,30,2023-12-26,South America
+164,Product D,1,97,2023-02-25,Asia
+165,Product B,1,14,2023-04-28,South America
+166,Product A,4,79,2023-09-10,South America
+167,Product D,3,56,2023-10-13,Asia
+168,Product C,4,96,2023-09-25,Europe
+169,Product C,3,77,2023-10-18,Europe
+170,Product B,3,27,2023-11-29,Europe
+171,Product D,3,30,2023-06-29,Asia
+172,Product A,2,95,2023-12-24,North America
+173,Product C,4,32,2023-08-23,Asia
+174,Product D,3,73,2023-12-09,South America
+175,Product D,1,76,2023-07-15,Asia
+176,Product B,2,49,2023-11-04,North America
+177,Product C,4,19,2023-03-21,North America
+178,Product C,3,98,2023-05-15,South America
+179,Product A,1,61,2023-01-22,Europe
+180,Product C,4,81,2023-11-27,North America
+181,Product A,4,84,2023-08-13,North America
+182,Product C,2,70,2023-02-27,North America
+183,Product B,4,73,2023-04-03,South America
+184,Product C,2,14,2023-07-11,North America
+185,Product A,3,62,2023-04-13,Europe
+186,Product A,2,64,2023-01-07,South America
+187,Product B,1,46,2023-05-08,Europe
+188,Product C,2,65,2023-02-24,North America
+189,Product C,1,68,2023-08-19,North America
+190,Product B,2,78,2023-12-28,Europe
+191,Product C,4,82,2023-03-03,South America
+192,Product C,3,68,2023-08-28,South America
+193,Product A,1,11,2023-03-31,Europe
+194,Product C,2,74,2023-08-20,North America
+195,Product C,2,69,2023-08-21,Asia
+196,Product B,2,60,2023-12-20,Europe
+197,Product B,4,39,2023-11-29,Europe
+198,Product D,4,20,2023-10-19,Europe
+199,Product A,1,85,2023-12-11,North America
+200,Product C,1,48,2023-06-01,South America
+201,Product C,4,99,2023-05-25,North America
+202,Product D,1,86,2023-05-10,Europe
+203,Product C,3,81,2023-05-21,North America
+204,Product A,3,72,2023-04-03,North America
+205,Product D,4,73,2023-04-24,Europe
+206,Product A,1,70,2023-10-11,North America
+207,Product D,2,63,2023-05-23,Asia
+208,Product D,3,82,2023-08-11,North America
+209,Product B,4,67,2023-08-20,North America
+210,Product A,1,94,2023-02-02,South America
+211,Product C,4,65,2023-10-03,South America
+212,Product C,2,43,2023-06-19,Europe
+213,Product A,3,40,2023-05-20,Europe
+214,Product C,4,61,2023-12-23,South America
+215,Product C,4,98,2023-07-20,Asia
+216,Product A,4,85,2023-01-23,North America
+217,Product D,2,10,2023-08-12,Asia
+218,Product A,4,64,2023-09-27,Asia
+219,Product D,2,31,2023-12-13,South America
+220,Product C,2,49,2023-06-02,Europe
+221,Product C,2,10,2023-11-29,North America
+222,Product C,3,74,2023-03-26,Europe
+223,Product B,3,72,2023-04-19,Asia
+224,Product D,4,63,2023-01-31,Asia
+225,Product B,4,51,2023-08-17,Europe
+226,Product B,3,30,2023-08-28,Europe
+227,Product A,1,88,2023-12-29,South America
+228,Product B,3,90,2023-11-06,Europe
+229,Product A,2,31,2023-05-21,Europe
+230,Product A,3,47,2023-06-05,South America
+231,Product B,2,89,2023-10-26,Europe
+232,Product D,4,17,2023-12-11,Asia
+233,Product D,1,71,2023-04-09,Europe
+234,Product D,4,56,2023-02-16,North America
+235,Product D,2,26,2023-11-23,Asia
+236,Product D,2,26,2023-03-08,South America
+237,Product B,2,99,2023-03-03,Asia
+238,Product B,1,22,2023-04-19,South America
+239,Product C,3,26,2023-06-16,North America
+240,Product D,4,47,2023-02-06,North America
+241,Product B,4,90,2023-04-29,Asia
+242,Product C,3,87,2023-03-27,Europe
+243,Product D,4,54,2023-02-21,Asia
+244,Product A,1,15,2023-04-01,Asia
+245,Product C,4,44,2023-10-16,North America
+246,Product B,2,23,2023-12-03,South America
+247,Product A,3,81,2023-10-25,Asia
+248,Product A,1,70,2023-07-23,Europe
+249,Product A,3,24,2023-08-26,North America
+250,Product C,1,63,2023-06-04,Asia
+251,Product B,2,36,2023-08-28,Asia
+252,Product A,3,22,2023-05-16,Europe
+253,Product D,4,40,2023-12-28,Asia
+254,Product A,1,44,2023-03-05,Asia
+255,Product A,3,69,2023-05-03,Asia
+256,Product C,4,15,2023-09-11,Asia
+257,Product C,3,78,2023-04-24,Europe
+258,Product B,3,95,2023-01-20,Asia
+259,Product D,3,67,2023-01-16,Asia
+260,Product C,1,58,2023-05-25,Asia
+261,Product A,4,32,2023-07-27,North America
+262,Product B,2,98,2023-01-19,Europe
+263,Product A,1,43,2023-06-15,North America
+264,Product A,1,35,2023-02-07,North America
+265,Product C,1,56,2023-06-30,Europe
+266,Product B,2,14,2023-12-15,North America
+267,Product D,4,99,2023-04-15,North America
+268,Product D,4,29,2023-04-10,North America
+269,Product C,4,15,2023-03-31,Europe
+270,Product C,3,79,2023-10-27,Asia
+271,Product B,3,68,2023-11-28,South America
+272,Product D,3,73,2023-03-20,South America
+273,Product D,2,27,2023-03-14,Europe
+274,Product D,3,13,2023-06-25,South America
+275,Product A,2,26,2023-04-06,Europe
+276,Product D,4,23,2023-12-11,Europe
+277,Product A,3,87,2023-04-13,South America
+278,Product B,3,22,2023-08-12,North America
+279,Product A,1,16,2023-01-06,Asia
+280,Product B,2,53,2023-05-02,South America
+281,Product D,4,24,2023-08-24,South America
+282,Product D,1,28,2023-04-26,South America
+283,Product B,1,72,2023-06-12,South America
+284,Product C,4,44,2023-08-14,Europe
+285,Product B,1,90,2023-08-18,Europe
+286,Product C,2,44,2023-07-01,Asia
+287,Product A,2,28,2023-09-06,Asia
+288,Product A,3,29,2023-11-14,South America
+289,Product A,1,44,2023-07-29,South America
+290,Product D,3,41,2023-05-24,South America
+291,Product A,1,57,2023-12-11,Asia
+292,Product C,2,53,2023-04-06,South America
+293,Product A,2,33,2023-12-12,North America
+294,Product B,2,70,2023-09-01,Asia
+295,Product B,1,26,2023-03-27,North America
+296,Product D,2,80,2023-07-03,South America
+297,Product B,1,59,2023-05-01,Europe
+298,Product C,3,74,2023-11-28,North America
+299,Product A,1,41,2023-04-02,Asia
+300,Product D,3,45,2023-03-11,North America
+301,Product A,1,22,2023-05-13,Asia
+302,Product A,3,79,2023-10-06,South America
+303,Product C,2,67,2023-05-17,North America
+304,Product B,3,23,2023-11-10,Europe
+305,Product B,2,46,2023-07-06,North America
+306,Product A,2,88,2023-08-09,Europe
+307,Product D,3,77,2023-02-15,Asia
+308,Product B,1,49,2023-10-05,South America
+309,Product D,1,68,2023-07-11,South America
+310,Product B,4,89,2023-01-08,Europe
+311,Product D,1,25,2023-10-03,Asia
+312,Product C,4,71,2023-06-28,South America
+313,Product D,1,13,2023-11-30,Asia
+314,Product C,1,54,2023-02-08,Europe
+315,Product C,2,99,2023-10-20,Europe
+316,Product D,4,37,2023-06-27,North America
+317,Product C,1,75,2023-06-11,South America
+318,Product A,4,40,2023-11-27,South America
+319,Product C,2,12,2023-04-14,North America
+320,Product B,2,17,2023-06-10,Europe
+321,Product D,4,33,2023-10-14,Europe
+322,Product A,2,24,2023-05-03,Europe
+323,Product D,3,52,2023-02-23,Europe
+324,Product B,3,40,2023-02-03,Asia
+325,Product B,2,82,2023-08-30,South America
+326,Product B,3,54,2023-04-23,South America
+327,Product C,1,75,2023-11-14,Europe
+328,Product C,4,17,2023-01-23,Europe
+329,Product D,1,80,2023-02-15,Europe
+330,Product D,4,66,2023-11-08,South America
+331,Product A,2,89,2023-05-15,South America
+332,Product A,1,39,2023-04-28,Europe
+333,Product D,2,83,2023-07-08,Asia
+334,Product C,2,27,2023-05-11,North America
+335,Product B,4,78,2023-07-31,North America
+336,Product D,4,48,2023-04-23,North America
+337,Product A,4,69,2023-02-13,South America
+338,Product C,1,52,2023-05-08,South America
+339,Product D,3,54,2023-12-30,North America
+340,Product D,4,32,2023-06-07,North America
+341,Product C,4,78,2023-09-30,Asia
+342,Product D,1,15,2023-11-11,South America
+343,Product C,4,65,2023-12-21,South America
+344,Product B,1,13,2023-12-06,North America
+345,Product C,2,32,2023-02-14,Asia
+346,Product C,4,15,2023-04-18,Asia
+347,Product C,4,41,2023-08-07,North America
+348,Product D,2,27,2023-11-14,North America
+349,Product D,2,24,2023-11-11,South America
+350,Product C,2,49,2023-06-26,North America
+351,Product D,4,82,2023-08-16,Europe
+352,Product A,3,83,2023-07-10,Asia
+353,Product A,3,93,2023-06-09,North America
+354,Product D,3,15,2023-09-24,Europe
+355,Product D,4,72,2023-12-24,Asia
+356,Product C,2,76,2023-11-22,Europe
+357,Product B,4,20,2023-07-09,Europe
+358,Product D,2,52,2023-06-24,North America
+359,Product A,4,26,2023-10-17,Asia
+360,Product C,4,13,2023-12-23,Europe
+361,Product D,2,72,2023-05-25,South America
+362,Product A,3,77,2023-08-20,Asia
+363,Product A,2,90,2023-12-26,South America
+364,Product B,1,50,2023-07-23,North America
+365,Product C,1,92,2023-08-01,South America
+366,Product C,2,14,2023-02-09,Asia
+367,Product B,4,41,2023-10-02,Europe
+368,Product B,1,95,2023-11-19,Europe
+369,Product C,1,79,2023-03-23,Asia
+370,Product C,4,44,2023-06-30,Europe
+371,Product D,4,31,2023-11-16,South America
+372,Product D,3,74,2023-03-24,Europe
+373,Product B,4,93,2023-10-30,Europe
+374,Product D,2,31,2023-09-19,South America
+375,Product A,2,20,2023-09-29,South America
+376,Product D,3,86,2023-07-19,South America
+377,Product D,1,12,2023-08-28,North America
+378,Product A,1,18,2023-06-29,South America
+379,Product B,4,69,2023-06-20,South America
+380,Product A,2,85,2023-10-22,North America
+381,Product D,1,96,2023-06-26,Europe
+382,Product B,3,23,2023-08-25,South America
+383,Product D,3,27,2023-05-18,Asia
+384,Product A,2,82,2023-11-23,South America
+385,Product A,3,32,2023-11-07,South America
+386,Product D,3,83,2023-05-09,North America
+387,Product C,2,92,2023-02-18,Asia
+388,Product C,4,56,2023-06-13,Europe
+389,Product A,4,78,2023-10-04,Europe
+390,Product A,3,56,2023-10-20,Asia
+391,Product C,4,96,2023-04-26,South America
+392,Product C,4,39,2023-01-24,North America
+393,Product D,3,34,2023-11-07,Asia
+394,Product D,4,37,2023-01-25,Asia
+395,Product C,3,34,2023-05-07,Europe
+396,Product D,1,83,2023-08-22,North America
+397,Product D,2,87,2023-07-28,Asia
+398,Product B,2,67,2023-04-03,North America
+399,Product D,4,50,2023-04-04,South America
+400,Product A,4,34,2023-11-23,Europe
+401,Product D,4,87,2023-08-13,South America
+402,Product D,2,57,2023-10-07,North America
+403,Product C,1,19,2023-01-11,South America
+404,Product A,1,84,2023-11-25,Europe
+405,Product D,2,20,2023-01-12,North America
+406,Product D,1,94,2023-02-04,Asia
+407,Product B,2,30,2023-08-16,South America
+408,Product D,1,95,2023-08-08,Europe
+409,Product D,3,54,2023-05-21,Asia
+410,Product B,3,16,2023-01-23,Europe
+411,Product C,2,90,2023-03-24,North America
+412,Product D,1,73,2023-08-17,North America
+413,Product B,4,73,2023-12-10,South America
+414,Product A,1,11,2023-03-21,Europe
+415,Product C,3,85,2023-12-19,Europe
+416,Product A,3,51,2023-10-17,Europe
+417,Product A,1,91,2023-11-27,North America
+418,Product B,1,63,2023-06-08,South America
+419,Product D,4,84,2023-05-08,Europe
+420,Product B,4,25,2023-07-09,Europe
+421,Product B,1,27,2023-01-31,Asia
+422,Product B,1,68,2023-12-25,Europe
+423,Product B,1,99,2023-01-15,South America
+424,Product C,1,25,2023-11-09,Asia
+425,Product D,2,15,2023-03-16,Asia
+426,Product A,1,66,2023-02-03,Asia
+427,Product A,4,56,2023-12-25,North America
+428,Product D,3,57,2023-07-15,Asia
+429,Product A,2,51,2023-11-27,Europe
+430,Product D,1,85,2023-01-29,North America
+431,Product A,3,69,2023-07-13,North America
+432,Product B,2,86,2023-01-16,North America
+433,Product A,3,13,2023-03-18,North America
+434,Product D,1,11,2023-10-20,North America
+435,Product D,1,99,2023-03-22,North America
+436,Product D,4,68,2023-05-04,North America
+437,Product D,1,36,2023-01-19,Asia
+438,Product D,1,36,2023-04-12,South America
+439,Product C,2,88,2023-03-18,Europe
+440,Product C,4,81,2023-08-17,Europe
+441,Product A,2,16,2023-10-24,Asia
+442,Product D,3,72,2023-07-22,Asia
+443,Product A,1,55,2023-03-02,North America
+444,Product D,3,72,2023-01-26,South America
+445,Product D,2,21,2023-03-12,North America
+446,Product C,1,22,2023-04-13,Asia
+447,Product C,1,52,2023-11-22,North America
+448,Product B,2,26,2023-12-29,Europe
+449,Product C,2,72,2023-06-06,Europe
+450,Product B,2,90,2023-12-29,North America
+451,Product B,2,45,2023-12-25,South America
+452,Product B,2,94,2023-07-13,North America
+453,Product B,1,17,2023-10-02,North America
+454,Product B,2,78,2023-11-20,South America
+455,Product A,1,99,2023-07-05,South America
+456,Product C,1,89,2023-11-22,South America
+457,Product B,2,45,2023-04-23,Europe
+458,Product D,2,37,2023-11-09,North America
+459,Product C,4,56,2023-06-14,Asia
+460,Product C,1,85,2023-03-02,South America
+461,Product B,2,39,2023-04-02,South America
+462,Product A,2,32,2023-10-13,North America
+463,Product B,2,25,2023-06-02,Asia
+464,Product A,4,23,2023-08-13,North America
+465,Product D,4,83,2023-05-07,North America
+466,Product C,3,80,2023-07-12,South America
+467,Product D,1,61,2023-04-25,South America
+468,Product A,3,46,2023-09-19,Europe
+469,Product A,2,38,2023-01-18,Asia
+470,Product D,4,76,2023-01-10,Asia
+471,Product A,4,24,2023-04-02,South America
+472,Product D,3,56,2023-05-19,South America
+473,Product C,4,55,2023-11-29,South America
+474,Product D,2,61,2023-12-23,Asia
+475,Product C,4,28,2023-12-06,Europe
+476,Product D,3,86,2023-02-21,Asia
+477,Product A,2,30,2023-07-14,South America
+478,Product D,3,73,2023-07-25,South America
+479,Product A,4,46,2023-10-14,Europe
+480,Product D,3,36,2023-04-03,North America
+481,Product D,3,64,2023-11-05,North America
+482,Product B,1,38,2023-05-25,Asia
+483,Product A,4,29,2023-03-27,North America
+484,Product B,4,34,2023-06-02,North America
+485,Product A,3,79,2023-01-02,Asia
+486,Product B,1,72,2023-12-08,South America
+487,Product C,4,45,2023-09-17,North America
+488,Product D,2,11,2023-06-13,South America
+489,Product A,3,31,2023-01-06,Asia
+490,Product A,4,25,2023-05-29,South America
+491,Product D,2,27,2023-07-24,South America
+492,Product A,4,78,2023-04-28,Asia
+493,Product A,2,63,2023-03-30,South America
+494,Product B,3,39,2023-06-03,North America
+495,Product A,4,54,2023-06-16,North America
+496,Product C,4,28,2023-06-10,North America
+497,Product C,1,96,2023-09-27,North America
+498,Product D,3,43,2023-02-25,South America
+499,Product A,2,22,2023-08-16,North America
+500,Product D,4,52,2023-12-03,South America
+501,Product C,4,71,2023-05-29,Europe
+502,Product A,2,31,2023-02-15,South America
+503,Product A,3,61,2023-05-24,North America
+504,Product D,1,61,2023-08-26,Europe
+505,Product C,1,45,2023-09-29,Asia
+506,Product A,4,82,2023-04-30,South America
+507,Product D,2,28,2023-12-06,North America
+508,Product C,4,47,2023-08-08,North America
+509,Product D,2,79,2023-01-08,North America
+510,Product B,1,88,2023-12-10,Asia
+511,Product A,3,66,2023-10-02,Europe
+512,Product B,2,29,2023-12-19,Europe
+513,Product C,1,18,2023-03-07,North America
+514,Product B,4,41,2023-03-20,South America
+515,Product B,2,13,2023-03-27,North America
+516,Product C,3,59,2023-05-04,North America
+517,Product D,4,91,2023-07-21,South America
+518,Product B,4,14,2023-05-30,North America
+519,Product D,1,29,2023-02-15,Asia
+520,Product B,2,96,2023-04-23,North America
+521,Product D,4,84,2023-04-01,Asia
+522,Product C,3,46,2023-05-21,North America
+523,Product B,2,31,2023-10-16,Europe
+524,Product C,3,67,2023-08-06,South America
+525,Product B,4,77,2023-03-18,Europe
+526,Product C,3,53,2023-11-30,North America
+527,Product C,1,43,2023-06-01,North America
+528,Product B,3,86,2023-11-19,Asia
+529,Product B,2,51,2023-08-27,North America
+530,Product B,3,18,2023-04-25,North America
+531,Product A,3,16,2023-11-15,North America
+532,Product D,1,77,2023-04-04,Europe
+533,Product A,3,28,2023-02-17,Asia
+534,Product A,3,40,2023-07-10,Europe
+535,Product C,4,44,2023-01-12,Asia
+536,Product B,4,66,2023-06-05,Europe
+537,Product D,2,94,2023-06-21,North America
+538,Product C,4,70,2023-10-23,Europe
+539,Product A,4,40,2023-06-26,Europe
+540,Product B,4,92,2023-12-07,Asia
+541,Product C,4,62,2023-02-26,Asia
+542,Product B,1,41,2023-12-09,Europe
+543,Product C,4,75,2023-12-06,Asia
+544,Product B,1,68,2023-07-22,Asia
+545,Product A,1,19,2023-07-04,Asia
+546,Product D,4,11,2023-05-01,South America
+547,Product A,3,75,2023-08-14,Asia
+548,Product D,1,69,2023-07-21,South America
+549,Product B,3,97,2023-11-26,South America
+550,Product C,3,26,2023-12-29,Asia
+551,Product A,4,25,2023-12-22,Europe
+552,Product D,2,25,2023-08-04,Asia
+553,Product A,4,55,2023-02-12,North America
+554,Product D,2,48,2023-01-23,Europe
+555,Product A,2,40,2023-06-04,South America
+556,Product D,4,97,2023-07-05,South America
+557,Product D,4,10,2023-09-06,Europe
+558,Product B,2,20,2023-08-25,Europe
+559,Product D,4,94,2023-10-20,Asia
+560,Product B,2,13,2023-05-14,South America
+561,Product D,3,80,2023-11-17,North America
+562,Product C,4,35,2023-01-22,Asia
+563,Product C,3,59,2023-12-27,Europe
+564,Product C,1,21,2023-03-29,South America
+565,Product D,3,90,2023-06-02,Europe
+566,Product B,3,84,2023-05-05,Europe
+567,Product B,2,74,2023-03-20,Europe
+568,Product D,3,56,2023-12-12,Asia
+569,Product C,4,62,2023-02-20,North America
+570,Product C,2,80,2023-08-04,North America
+571,Product B,1,11,2023-06-25,South America
+572,Product C,4,33,2023-12-24,Europe
+573,Product A,1,13,2023-09-10,North America
+574,Product B,3,28,2023-09-03,Europe
+575,Product C,4,35,2023-08-15,South America
+576,Product B,4,84,2023-04-16,Europe
+577,Product A,1,49,2023-07-12,North America
+578,Product B,4,59,2023-11-12,Europe
+579,Product B,4,52,2023-10-29,North America
+580,Product B,4,84,2023-02-05,South America
+581,Product B,3,76,2023-07-23,Europe
+582,Product A,1,21,2023-09-24,North America
+583,Product D,4,76,2023-09-25,South America
+584,Product B,2,36,2023-06-19,Europe
+585,Product B,2,63,2023-02-08,South America
+586,Product C,2,75,2023-05-19,North America
+587,Product B,2,58,2023-10-19,Europe
+588,Product C,3,25,2023-02-21,Europe
+589,Product D,4,11,2023-10-14,Europe
+590,Product A,1,69,2023-10-16,South America
+591,Product A,4,63,2023-05-21,South America
+592,Product D,3,39,2023-05-26,North America
+593,Product A,2,93,2023-11-10,Asia
+594,Product D,3,47,2023-07-03,Europe
+595,Product D,4,37,2023-06-01,Europe
+596,Product D,1,34,2023-07-20,North America
+597,Product A,3,19,2023-05-08,Europe
+598,Product C,1,69,2023-10-14,South America
+599,Product D,3,51,2023-11-07,South America
+600,Product B,1,49,2023-09-10,Europe
+601,Product A,1,86,2023-09-23,Europe
+602,Product D,2,51,2023-07-07,South America
+603,Product D,1,56,2023-08-18,Europe
+604,Product B,2,46,2023-09-28,South America
+605,Product C,4,89,2023-09-16,Asia
+606,Product C,4,31,2023-10-26,Asia
+607,Product C,2,66,2023-07-17,Europe
+608,Product D,2,93,2023-11-19,Europe
+609,Product D,3,36,2023-02-25,Europe
+610,Product D,3,50,2023-11-15,South America
+611,Product A,3,89,2023-07-22,Asia
+612,Product B,4,43,2023-09-28,Asia
+613,Product D,3,41,2023-04-19,North America
+614,Product B,1,99,2023-04-26,North America
+615,Product B,1,98,2023-04-02,Europe
+616,Product C,3,75,2023-05-18,South America
+617,Product A,1,21,2023-10-30,Europe
+618,Product D,4,49,2023-02-26,Asia
+619,Product C,1,82,2023-02-19,Europe
+620,Product C,4,85,2023-03-12,Europe
+621,Product D,2,99,2023-03-23,Asia
+622,Product B,2,82,2023-04-15,Asia
+623,Product C,2,19,2023-03-29,Asia
+624,Product B,2,57,2023-01-02,Asia
+625,Product A,1,29,2023-12-26,North America
+626,Product B,3,48,2023-03-25,South America
+627,Product A,1,69,2023-02-12,South America
+628,Product B,4,75,2023-06-03,Asia
+629,Product C,1,74,2023-11-23,South America
+630,Product C,1,60,2023-04-04,South America
+631,Product A,4,45,2023-10-25,South America
+632,Product D,2,33,2023-05-13,South America
+633,Product A,2,36,2023-03-06,Asia
+634,Product A,2,11,2023-10-17,Europe
+635,Product B,3,40,2023-09-14,Europe
+636,Product B,4,66,2023-08-01,Europe
+637,Product A,4,87,2023-05-28,North America
+638,Product C,1,75,2023-03-02,South America
+639,Product B,3,38,2023-05-29,Asia
+640,Product D,2,24,2023-03-29,Asia
+641,Product B,3,21,2023-11-20,North America
+642,Product B,4,37,2023-10-05,Asia
+643,Product D,4,93,2023-03-23,Europe
+644,Product A,1,33,2023-05-09,North America
+645,Product D,1,30,2023-10-13,Asia
+646,Product A,4,19,2023-12-19,North America
+647,Product A,2,87,2023-10-07,North America
+648,Product A,2,27,2023-09-27,Asia
+649,Product D,3,97,2023-10-19,Europe
+650,Product A,4,23,2023-07-22,Asia
+651,Product C,4,43,2023-01-24,South America
+652,Product D,2,67,2023-12-17,South America
+653,Product C,2,85,2023-11-07,Asia
+654,Product A,4,31,2023-07-27,Europe
+655,Product B,1,79,2023-10-07,South America
+656,Product A,4,45,2023-07-24,South America
+657,Product C,4,54,2023-06-01,Asia
+658,Product C,2,45,2023-01-26,Asia
+659,Product D,2,31,2023-07-13,Asia
+660,Product B,1,87,2023-12-02,North America
+661,Product D,1,89,2023-08-26,North America
+662,Product C,3,70,2023-11-17,North America
+663,Product A,4,65,2023-03-16,Asia
+664,Product B,2,98,2023-06-12,Europe
+665,Product A,1,42,2023-10-26,South America
+666,Product A,3,54,2023-01-29,North America
+667,Product B,3,45,2023-06-14,Europe
+668,Product D,2,29,2023-12-03,Asia
+669,Product A,2,27,2023-07-05,North America
+670,Product C,3,47,2023-02-23,Asia
+671,Product A,1,76,2023-10-22,Europe
+672,Product B,3,32,2023-02-11,North America
+673,Product B,4,25,2023-10-12,North America
+674,Product B,4,68,2023-05-18,North America
+675,Product D,2,78,2023-07-06,North America
+676,Product A,1,77,2023-07-23,Europe
+677,Product D,1,30,2023-02-11,North America
+678,Product D,4,87,2023-12-16,South America
+679,Product B,3,87,2023-10-15,South America
+680,Product B,2,79,2023-01-26,Asia
+681,Product D,3,21,2023-02-25,North America
+682,Product A,3,25,2023-09-10,South America
+683,Product C,3,90,2023-05-02,South America
+684,Product D,1,96,2023-04-16,South America
+685,Product A,4,23,2023-05-10,Europe
+686,Product B,1,70,2023-12-03,North America
+687,Product B,4,80,2023-06-07,Europe
+688,Product A,2,55,2023-08-19,Europe
+689,Product C,2,41,2023-11-04,South America
+690,Product B,3,24,2023-04-01,South America
+691,Product B,4,53,2023-01-22,Asia
+692,Product B,4,26,2023-10-17,North America
+693,Product A,4,50,2023-04-20,North America
+694,Product D,3,63,2023-02-18,South America
+695,Product B,3,53,2023-05-09,South America
+696,Product D,2,14,2023-03-14,North America
+697,Product C,1,36,2023-12-06,Asia
+698,Product B,4,96,2023-02-22,South America
+699,Product B,4,87,2023-12-22,Asia
+700,Product C,1,88,2023-06-17,Europe
+701,Product B,4,52,2023-02-14,South America
+702,Product D,3,40,2023-04-15,Europe
+703,Product A,3,26,2023-05-30,South America
+704,Product D,4,92,2023-05-26,Europe
+705,Product A,3,63,2023-07-23,South America
+706,Product A,3,71,2023-12-28,Asia
+707,Product D,4,96,2023-10-26,Asia
+708,Product D,2,41,2023-06-16,Asia
+709,Product D,1,49,2023-07-20,Europe
+710,Product D,3,22,2023-05-14,Asia
+711,Product C,2,93,2023-07-30,Europe
+712,Product B,3,44,2023-02-17,South America
+713,Product A,3,14,2023-05-06,Europe
+714,Product D,1,82,2023-08-27,South America
+715,Product D,3,38,2023-01-07,North America
+716,Product D,1,79,2023-09-29,North America
+717,Product C,1,34,2023-02-06,North America
+718,Product D,1,31,2023-07-30,Europe
+719,Product D,2,75,2023-06-14,North America
+720,Product D,4,54,2023-05-05,North America
+721,Product B,2,78,2023-12-03,North America
+722,Product C,4,98,2023-07-11,South America
+723,Product D,4,81,2023-08-06,Asia
+724,Product A,1,10,2023-08-02,Europe
+725,Product A,3,93,2023-03-03,North America
+726,Product A,1,53,2023-11-24,South America
+727,Product C,3,96,2023-06-10,Asia
+728,Product C,4,84,2023-03-07,Asia
+729,Product A,1,48,2023-10-13,Asia
+730,Product D,3,63,2023-08-27,South America
+731,Product C,2,97,2023-01-20,North America
+732,Product A,3,84,2023-07-07,Asia
+733,Product A,1,38,2023-03-23,South America
+734,Product D,2,63,2023-12-29,South America
+735,Product B,3,99,2023-07-21,Europe
+736,Product C,3,25,2023-05-12,South America
+737,Product D,3,29,2023-02-06,Asia
+738,Product A,3,55,2023-05-12,Asia
+739,Product A,3,76,2023-03-18,South America
+740,Product D,2,74,2023-03-30,Asia
+741,Product C,4,67,2023-09-10,South America
+742,Product B,2,62,2023-12-10,Asia
+743,Product B,2,10,2023-07-13,Europe
+744,Product A,2,90,2023-06-25,North America
+745,Product C,4,75,2023-02-02,Europe
+746,Product B,1,38,2023-02-27,Europe
+747,Product C,4,93,2023-07-20,North America
+748,Product C,2,79,2023-01-28,Asia
+749,Product A,3,17,2023-02-04,North America
+750,Product B,3,38,2023-05-05,South America
+751,Product D,2,60,2023-11-17,North America
+752,Product A,3,42,2023-02-11,Europe
+753,Product B,2,12,2023-03-26,North America
+754,Product B,3,69,2023-07-07,Asia
+755,Product B,4,44,2023-04-21,Europe
+756,Product B,1,78,2023-09-28,South America
+757,Product B,1,85,2023-11-21,Asia
+758,Product C,4,93,2023-04-15,Europe
+759,Product A,4,29,2023-11-16,South America
+760,Product C,2,82,2023-02-10,Asia
+761,Product D,2,48,2023-08-03,South America
+762,Product B,2,13,2023-03-12,North America
+763,Product A,3,28,2023-02-25,North America
+764,Product B,2,54,2023-08-24,South America
+765,Product A,4,52,2023-10-08,North America
+766,Product C,1,22,2023-04-15,South America
+767,Product A,3,22,2023-06-11,Asia
+768,Product D,2,69,2023-07-10,Europe
+769,Product D,3,66,2023-01-09,South America
+770,Product A,3,95,2023-03-01,Europe
+771,Product A,2,61,2023-11-01,Europe
+772,Product A,3,62,2023-08-13,South America
+773,Product A,1,95,2023-11-03,North America
+774,Product D,4,52,2023-07-07,Asia
+775,Product B,4,92,2023-03-11,Europe
+776,Product A,1,81,2023-10-20,Asia
+777,Product A,3,81,2023-10-14,Europe
+778,Product D,2,51,2023-06-18,South America
+779,Product D,3,99,2023-03-03,North America
+780,Product C,1,35,2023-12-15,Asia
+781,Product A,3,32,2023-01-14,Europe
+782,Product C,4,52,2023-06-13,South America
+783,Product D,3,86,2023-09-02,South America
+784,Product D,1,37,2023-12-01,Europe
+785,Product B,4,18,2023-01-08,Europe
+786,Product A,3,29,2023-06-03,Europe
+787,Product C,3,65,2023-02-05,North America
+788,Product D,4,92,2023-02-17,Europe
+789,Product D,2,48,2023-03-26,Europe
+790,Product C,4,60,2023-01-28,North America
+791,Product B,2,21,2023-07-15,South America
+792,Product D,1,88,2023-07-27,Europe
+793,Product A,1,64,2023-07-23,Asia
+794,Product D,4,87,2023-11-03,South America
+795,Product A,4,20,2023-04-14,Asia
+796,Product C,1,35,2023-08-18,Europe
+797,Product A,2,51,2023-04-11,North America
+798,Product C,1,36,2023-01-29,North America
+799,Product A,4,20,2023-05-07,North America
+800,Product C,1,47,2023-12-04,Europe
+801,Product A,4,52,2023-01-10,Europe
+802,Product B,4,28,2023-04-16,Asia
+803,Product A,1,73,2023-06-16,North America
+804,Product A,2,15,2023-09-14,Europe
+805,Product B,3,55,2023-10-22,South America
+806,Product D,1,51,2023-10-04,Europe
+807,Product D,3,74,2023-03-06,Europe
+808,Product A,1,81,2023-09-28,South America
+809,Product B,3,68,2023-07-07,North America
+810,Product A,2,61,2023-11-13,South America
+811,Product C,2,56,2023-05-18,North America
+812,Product C,1,16,2023-12-09,South America
+813,Product A,4,20,2023-04-15,Asia
+814,Product D,3,70,2023-02-03,North America
+815,Product D,4,77,2023-04-20,Europe
+816,Product A,4,34,2023-02-02,Asia
+817,Product A,4,21,2023-12-20,North America
+818,Product C,2,35,2023-08-19,North America
+819,Product D,1,21,2023-11-13,North America
+820,Product A,1,52,2023-09-23,South America
+821,Product C,2,60,2023-07-01,North America
+822,Product D,2,46,2023-12-06,Europe
+823,Product B,1,55,2023-03-06,North America
+824,Product C,4,62,2023-11-29,Europe
+825,Product D,3,97,2023-01-01,Europe
+826,Product D,3,89,2023-05-13,Europe
+827,Product C,3,22,2023-03-21,Asia
+828,Product B,4,98,2023-09-28,Europe
+829,Product C,1,63,2023-08-29,South America
+830,Product D,2,66,2023-01-28,North America
+831,Product A,1,13,2023-08-11,South America
+832,Product A,4,84,2023-01-23,Asia
+833,Product C,2,58,2023-04-19,North America
+834,Product D,4,16,2023-04-17,Europe
+835,Product A,3,20,2023-05-25,North America
+836,Product D,3,63,2023-12-20,Asia
+837,Product C,4,96,2023-05-19,Asia
+838,Product A,2,54,2023-10-11,South America
+839,Product D,2,32,2023-10-25,North America
+840,Product A,1,37,2023-04-09,North America
+841,Product C,3,66,2023-11-13,North America
+842,Product D,1,35,2023-05-03,South America
+843,Product A,1,34,2023-11-16,Asia
+844,Product C,4,63,2023-10-14,Europe
+845,Product A,4,38,2023-03-22,North America
+846,Product A,1,92,2023-01-10,South America
+847,Product B,3,45,2023-01-08,South America
+848,Product B,4,23,2023-07-24,Europe
+849,Product C,1,87,2023-11-11,Asia
+850,Product B,1,44,2023-07-16,North America
+851,Product C,1,39,2023-07-17,North America
+852,Product B,1,26,2023-01-30,South America
+853,Product A,1,76,2023-01-20,Asia
+854,Product C,1,89,2023-02-17,North America
+855,Product C,4,39,2023-05-10,Europe
+856,Product A,3,54,2023-10-20,Asia
+857,Product C,1,88,2023-05-12,Asia
+858,Product C,2,98,2023-12-22,South America
+859,Product B,4,60,2023-02-23,South America
+860,Product C,4,56,2023-10-08,North America
+861,Product D,1,62,2023-09-22,South America
+862,Product A,4,73,2023-08-03,Asia
+863,Product B,1,47,2023-10-17,North America
+864,Product B,3,73,2023-02-12,North America
+865,Product D,3,96,2023-03-15,Asia
+866,Product A,4,98,2023-12-16,North America
+867,Product A,4,16,2023-10-05,Europe
+868,Product B,2,31,2023-11-22,Europe
+869,Product C,4,90,2023-08-30,North America
+870,Product B,2,91,2023-05-10,South America
+871,Product A,3,50,2023-12-16,Europe
+872,Product D,3,83,2023-07-13,North America
+873,Product B,1,19,2023-02-01,Europe
+874,Product A,3,66,2023-04-16,South America
+875,Product B,2,16,2023-07-23,Asia
+876,Product C,4,59,2023-01-01,North America
+877,Product B,1,61,2023-09-02,North America
+878,Product B,2,42,2023-03-13,North America
+879,Product A,4,10,2023-11-02,North America
+880,Product A,1,62,2023-01-15,North America
+881,Product A,3,69,2023-02-22,North America
+882,Product B,2,43,2023-01-08,South America
+883,Product C,4,13,2023-11-26,Asia
+884,Product D,1,26,2023-02-15,South America
+885,Product D,1,13,2023-11-21,South America
+886,Product A,3,52,2023-04-24,Asia
+887,Product A,4,99,2023-05-27,South America
+888,Product B,3,13,2023-06-15,Europe
+889,Product D,3,10,2023-05-19,South America
+890,Product A,4,80,2023-04-27,North America
+891,Product C,4,59,2023-10-26,Europe
+892,Product C,4,82,2023-10-03,Europe
+893,Product A,2,70,2023-10-04,Asia
+894,Product A,4,44,2023-12-04,South America
+895,Product D,1,17,2023-11-09,South America
+896,Product D,3,33,2023-06-27,Europe
+897,Product B,2,92,2023-11-26,South America
+898,Product D,4,45,2023-12-20,South America
+899,Product C,2,59,2023-06-03,Asia
+900,Product C,4,52,2023-07-20,Europe
+901,Product A,2,36,2023-04-25,North America
+902,Product D,3,41,2023-06-08,Europe
+903,Product B,3,87,2023-02-11,Asia
+904,Product C,1,27,2023-09-04,Asia
+905,Product C,1,37,2023-03-09,Asia
+906,Product B,4,38,2023-11-22,South America
+907,Product B,3,25,2023-11-30,Europe
+908,Product C,2,56,2023-07-15,South America
+909,Product C,2,68,2023-03-31,South America
+910,Product B,2,40,2023-04-21,Europe
+911,Product C,1,13,2023-12-25,Asia
+912,Product A,2,46,2023-05-25,North America
+913,Product A,1,26,2023-10-02,North America
+914,Product B,1,48,2023-06-28,Europe
+915,Product D,4,57,2023-08-29,Europe
+916,Product B,2,55,2023-11-22,Asia
+917,Product B,2,99,2023-11-15,Europe
+918,Product D,3,57,2023-11-27,Europe
+919,Product D,4,48,2023-06-02,Asia
+920,Product D,3,13,2023-04-14,Asia
+921,Product A,4,39,2023-03-16,South America
+922,Product C,2,39,2023-05-08,Europe
+923,Product A,1,31,2023-07-18,North America
+924,Product C,1,84,2023-06-03,Europe
+925,Product A,1,75,2023-02-25,North America
+926,Product C,1,21,2023-10-05,North America
+927,Product A,1,45,2023-12-11,North America
+928,Product D,3,27,2023-01-19,South America
+929,Product B,4,99,2023-06-08,Asia
+930,Product A,2,62,2023-01-26,Asia
+931,Product C,3,80,2023-06-18,South America
+932,Product D,4,10,2023-01-23,Asia
+933,Product A,1,67,2023-02-16,South America
+934,Product A,4,99,2023-01-13,Europe
+935,Product D,4,96,2023-08-05,South America
+936,Product A,1,99,2023-11-18,Asia
+937,Product B,1,15,2023-07-13,Asia
+938,Product A,1,79,2023-05-24,Europe
+939,Product B,2,53,2023-03-14,South America
+940,Product B,1,81,2023-06-05,Europe
+941,Product D,2,33,2023-03-18,North America
+942,Product A,1,95,2023-06-18,South America
+943,Product D,2,28,2023-10-14,Europe
+944,Product A,4,27,2023-03-26,Europe
+945,Product A,3,39,2023-07-01,Asia
+946,Product C,4,51,2023-11-11,South America
+947,Product A,4,42,2023-10-24,North America
+948,Product D,1,83,2023-04-22,North America
+949,Product B,2,21,2023-08-18,South America
+950,Product A,3,36,2023-04-06,South America
+951,Product C,1,48,2023-06-17,Europe
+952,Product D,1,18,2023-06-05,Asia
+953,Product A,1,30,2023-04-15,Asia
+954,Product D,4,85,2023-07-12,Asia
+955,Product C,2,38,2023-11-26,South America
+956,Product C,2,42,2023-05-12,Asia
+957,Product D,3,71,2023-12-21,Europe
+958,Product A,2,24,2023-05-18,South America
+959,Product B,2,11,2023-11-27,South America
+960,Product C,1,61,2023-09-27,Asia
+961,Product A,1,53,2023-02-07,North America
+962,Product A,4,63,2023-02-14,North America
+963,Product B,1,27,2023-06-12,Europe
+964,Product C,1,12,2023-11-27,Asia
+965,Product C,1,16,2023-09-10,Asia
+966,Product A,1,52,2023-06-18,South America
+967,Product A,4,91,2023-10-12,South America
+968,Product B,1,47,2023-10-01,Asia
+969,Product B,3,46,2023-01-20,South America
+970,Product C,3,67,2023-08-27,Asia
+971,Product D,3,42,2023-09-27,Europe
+972,Product C,3,68,2023-11-06,South America
+973,Product A,1,20,2023-01-31,Asia
+974,Product C,3,77,2023-11-10,South America
+975,Product D,1,91,2023-04-14,Europe
+976,Product B,4,77,2023-06-19,South America
+977,Product D,3,97,2023-07-05,Asia
+978,Product D,2,31,2023-05-08,South America
+979,Product D,3,75,2023-07-29,South America
+980,Product B,3,53,2023-10-08,Asia
+981,Product D,1,15,2023-09-10,North America
+982,Product D,3,51,2023-01-19,South America
+983,Product D,2,34,2023-07-19,South America
+984,Product A,1,66,2023-08-08,Europe
+985,Product D,1,94,2023-05-16,North America
+986,Product B,4,64,2023-08-11,Europe
+987,Product D,4,25,2023-01-03,Asia
+988,Product D,3,23,2023-08-24,Asia
+989,Product B,4,48,2023-12-08,Europe
+990,Product D,4,37,2023-08-16,South America
+991,Product B,4,60,2023-05-22,North America
+992,Product D,1,58,2023-01-09,Europe
+993,Product B,1,18,2023-07-09,Europe
+994,Product D,1,67,2023-12-16,Asia
+995,Product D,4,54,2023-06-14,South America
+996,Product A,1,31,2023-05-19,North America
+997,Product A,4,41,2023-10-03,Europe
+998,Product D,1,78,2023-10-18,North America
+999,Product D,1,96,2023-02-22,North America
+1000,Product C,2,78,2023-06-24,Europe
+1001,Product B,3,51,2023-04-20,North America
+1002,Product C,4,62,2023-07-22,Asia
+1003,Product A,2,68,2023-05-16,South America
+1004,Product A,1,83,2023-01-04,South America
+1005,Product A,4,48,2023-06-04,South America
+1006,Product A,1,24,2023-06-21,Asia
+1007,Product D,3,80,2023-12-24,Asia
+1008,Product A,2,38,2023-02-16,Asia
+1009,Product D,3,12,2023-04-04,South America
+1010,Product D,2,92,2023-02-17,North America
+1011,Product A,1,19,2023-08-28,Asia
+1012,Product A,3,38,2023-12-13,Europe
+1013,Product B,3,88,2023-08-01,Asia
+1014,Product C,1,44,2023-12-06,Europe
+1015,Product A,3,15,2023-11-20,South America
+1016,Product B,4,21,2023-05-19,Europe
+1017,Product B,2,47,2023-07-24,Asia
+1018,Product C,2,86,2023-03-14,Asia
+1019,Product D,2,28,2023-01-04,North America
+1020,Product A,4,76,2023-03-17,South America
+1021,Product C,2,17,2023-11-25,Europe
+1022,Product A,1,17,2023-03-18,South America
+1023,Product B,3,93,2023-10-31,Asia
+1024,Product B,4,56,2023-09-13,North America
+1025,Product D,2,13,2023-04-12,Asia
+1026,Product B,1,60,2023-04-16,Asia
+1027,Product B,3,94,2023-11-29,Asia
+1028,Product C,3,76,2023-02-08,Europe
+1029,Product A,4,54,2023-11-10,Asia
+1030,Product A,4,17,2023-10-02,South America
+1031,Product C,4,96,2023-03-29,South America
+1032,Product D,1,25,2023-07-30,North America
+1033,Product A,1,86,2023-03-18,South America
+1034,Product B,4,76,2023-03-18,Asia
+1035,Product A,2,18,2023-01-28,Asia
+1036,Product B,3,69,2023-09-02,South America
+1037,Product D,3,87,2023-03-07,North America
+1038,Product C,1,86,2023-09-23,North America
+1039,Product A,3,80,2023-07-24,South America
+1040,Product C,2,24,2023-02-27,Europe
+1041,Product A,3,80,2023-07-20,Europe
+1042,Product B,1,50,2023-08-13,Europe
+1043,Product C,1,31,2023-05-22,Europe
+1044,Product A,2,33,2023-03-25,South America
+1045,Product B,2,53,2023-05-23,North America
+1046,Product C,3,10,2023-12-18,Asia
+1047,Product C,3,19,2023-02-02,Asia
+1048,Product A,1,89,2023-06-01,South America
+1049,Product A,2,81,2023-06-07,Asia
+1050,Product A,2,65,2023-05-21,Europe
+1051,Product B,2,98,2023-09-08,North America
+1052,Product A,3,59,2023-10-30,South America
+1053,Product C,2,21,2023-04-22,North America
+1054,Product C,1,98,2023-05-24,South America
+1055,Product A,1,90,2023-07-28,South America
+1056,Product A,3,69,2023-08-12,South America
+1057,Product D,4,35,2023-02-12,South America
+1058,Product C,3,87,2023-09-21,North America
+1059,Product B,4,50,2023-09-01,Asia
+1060,Product D,2,45,2023-01-03,South America
+1061,Product A,3,32,2023-05-05,Europe
+1062,Product A,1,52,2023-09-25,South America
+1063,Product C,2,15,2023-03-25,North America
+1064,Product A,1,78,2023-01-16,South America
+1065,Product B,2,52,2023-11-30,Europe
+1066,Product C,3,34,2023-02-28,North America
+1067,Product A,4,27,2023-06-26,South America
+1068,Product C,2,71,2023-03-04,Europe
+1069,Product A,4,22,2023-02-18,North America
+1070,Product A,2,52,2023-11-03,South America
+1071,Product A,1,87,2023-09-03,Europe
+1072,Product B,1,37,2023-10-16,North America
+1073,Product B,2,27,2023-10-13,South America
+1074,Product C,4,68,2023-11-28,North America
+1075,Product A,3,69,2023-01-15,Europe
+1076,Product A,3,72,2023-12-04,South America
+1077,Product B,1,66,2023-09-12,South America
+1078,Product A,3,60,2023-04-02,South America
+1079,Product B,1,65,2023-10-06,Europe
+1080,Product A,3,36,2023-07-25,Asia
+1081,Product C,2,41,2023-04-04,South America
+1082,Product A,1,18,2023-08-13,Europe
+1083,Product A,1,93,2023-10-28,North America
+1084,Product D,2,77,2023-11-14,North America
+1085,Product B,1,55,2023-07-18,Europe
+1086,Product A,3,76,2023-09-28,Asia
+1087,Product A,3,35,2023-08-22,Europe
+1088,Product D,1,17,2023-02-15,North America
+1089,Product D,3,15,2023-03-05,North America
+1090,Product B,4,89,2023-08-18,South America
+1091,Product D,1,33,2023-09-06,Asia
+1092,Product C,2,57,2023-09-03,Europe
+1093,Product D,4,54,2023-03-16,North America
+1094,Product C,1,22,2023-06-06,North America
+1095,Product B,2,78,2023-08-11,North America
+1096,Product B,3,34,2023-07-09,Europe
+1097,Product B,2,29,2023-02-21,Europe
+1098,Product B,4,91,2023-03-29,Asia
+1099,Product B,3,91,2023-11-09,South America
+1100,Product C,1,75,2023-12-05,South America
+1101,Product C,3,83,2023-03-07,South America
+1102,Product B,1,54,2023-05-30,North America
+1103,Product D,1,56,2023-01-20,South America
+1104,Product A,2,72,2023-02-02,North America
+1105,Product B,2,85,2023-11-24,Asia
+1106,Product D,2,86,2023-10-08,North America
+1107,Product A,4,64,2023-02-15,Asia
+1108,Product B,4,84,2023-03-14,Asia
+1109,Product B,2,28,2023-12-20,South America
+1110,Product C,4,44,2023-11-09,South America
+1111,Product A,3,62,2023-12-09,North America
+1112,Product A,3,35,2023-05-13,Europe
+1113,Product D,4,23,2023-02-24,South America
+1114,Product C,4,54,2023-03-02,South America
+1115,Product C,3,53,2023-12-11,Europe
+1116,Product C,1,97,2023-01-08,Europe
+1117,Product C,3,74,2023-09-29,South America
+1118,Product A,3,60,2023-09-03,Europe
+1119,Product A,4,52,2023-06-25,North America
+1120,Product B,3,95,2023-04-26,Asia
+1121,Product B,4,32,2023-11-13,Asia
+1122,Product C,4,65,2023-09-28,South America
+1123,Product C,2,28,2023-07-12,South America
+1124,Product C,3,91,2023-05-30,North America
+1125,Product B,1,85,2023-05-11,Europe
+1126,Product D,2,64,2023-04-12,South America
+1127,Product D,4,69,2023-11-06,Asia
+1128,Product B,4,68,2023-09-27,North America
+1129,Product B,1,42,2023-10-19,North America
+1130,Product B,4,28,2023-07-29,Europe
+1131,Product B,3,37,2023-12-27,South America
+1132,Product B,2,61,2023-12-04,South America
+1133,Product B,4,58,2023-03-08,North America
+1134,Product C,4,46,2023-01-10,Asia
+1135,Product C,1,35,2023-02-18,South America
+1136,Product C,3,49,2023-04-21,Asia
+1137,Product C,4,89,2023-11-17,North America
+1138,Product B,1,47,2023-08-07,South America
+1139,Product D,4,86,2023-02-26,Asia
+1140,Product A,1,96,2023-10-10,North America
+1141,Product B,1,63,2023-04-23,Asia
+1142,Product A,3,31,2023-05-13,South America
+1143,Product D,4,25,2023-03-12,Europe
+1144,Product C,3,37,2023-03-24,Asia
+1145,Product D,1,44,2023-02-26,Europe
+1146,Product B,2,69,2023-12-15,South America
+1147,Product C,4,54,2023-09-28,Europe
+1148,Product B,2,55,2023-04-21,North America
+1149,Product C,4,81,2023-12-23,Europe
+1150,Product A,3,64,2023-03-17,Asia
+1151,Product A,3,95,2023-06-07,Asia
+1152,Product A,3,94,2023-01-20,Europe
+1153,Product D,3,35,2023-05-11,North America
+1154,Product B,3,94,2023-11-25,South America
+1155,Product D,2,34,2023-05-02,Europe
+1156,Product A,3,74,2023-02-10,Asia
+1157,Product B,1,15,2023-06-16,Asia
+1158,Product A,1,32,2023-05-10,Europe
+1159,Product D,2,73,2023-01-23,Europe
+1160,Product D,4,96,2023-10-06,Europe
+1161,Product D,1,52,2023-09-08,South America
+1162,Product A,4,32,2023-01-09,Asia
+1163,Product B,2,39,2023-01-13,Asia
+1164,Product B,4,86,2023-11-03,Asia
+1165,Product A,4,27,2023-11-16,South America
+1166,Product B,4,96,2023-02-21,North America
+1167,Product A,4,88,2023-07-28,Asia
+1168,Product B,2,30,2023-02-07,Asia
+1169,Product C,1,66,2023-04-10,North America
+1170,Product C,3,32,2023-07-12,South America
+1171,Product D,4,54,2023-07-10,North America
+1172,Product C,1,53,2023-02-20,North America
+1173,Product C,1,91,2023-05-21,North America
+1174,Product C,2,97,2023-06-17,North America
+1175,Product A,1,56,2023-11-07,South America
+1176,Product C,2,49,2023-04-19,South America
+1177,Product C,4,60,2023-07-26,North America
+1178,Product D,4,51,2023-10-27,Europe
+1179,Product C,3,16,2023-04-20,Europe
+1180,Product C,3,59,2023-07-15,Europe
+1181,Product B,3,57,2023-06-01,Europe
+1182,Product D,1,93,2023-08-31,Asia
+1183,Product D,4,15,2023-05-08,South America
+1184,Product D,2,18,2023-04-15,South America
+1185,Product D,3,66,2023-01-10,North America
+1186,Product D,2,40,2023-12-22,Asia
+1187,Product D,2,30,2023-05-28,North America
+1188,Product A,3,99,2023-12-31,North America
+1189,Product C,4,49,2023-12-30,South America
+1190,Product D,3,54,2023-05-20,Asia
+1191,Product C,2,86,2023-07-09,Europe
+1192,Product C,3,58,2023-04-04,South America
+1193,Product A,2,96,2023-08-17,Asia
+1194,Product D,2,29,2023-03-04,Asia
+1195,Product B,3,26,2023-12-06,South America
+1196,Product A,1,37,2023-01-25,South America
+1197,Product B,3,50,2023-09-25,North America
+1198,Product C,1,75,2023-10-08,North America
+1199,Product C,2,34,2023-01-11,North America
+1200,Product A,2,67,2023-11-16,Europe
+1201,Product A,1,50,2023-07-20,South America
+1202,Product B,2,15,2023-05-06,Asia
+1203,Product D,1,84,2023-11-02,South America
+1204,Product B,1,47,2023-07-09,Asia
+1205,Product A,2,15,2023-03-30,Europe
+1206,Product B,4,54,2023-12-21,South America
+1207,Product A,1,84,2023-04-26,Asia
+1208,Product B,3,23,2023-12-18,Asia
+1209,Product A,3,75,2023-06-26,North America
+1210,Product A,2,49,2023-01-14,Europe
+1211,Product A,4,12,2023-09-14,South America
+1212,Product D,2,33,2023-07-28,North America
+1213,Product B,4,28,2023-10-08,Europe
+1214,Product B,1,27,2023-11-24,North America
+1215,Product B,1,73,2023-11-21,South America
+1216,Product A,1,97,2023-04-15,Asia
+1217,Product B,1,44,2023-05-27,South America
+1218,Product B,3,71,2023-10-06,Europe
+1219,Product A,3,10,2023-01-09,South America
+1220,Product C,2,34,2023-04-28,Europe
+1221,Product A,4,54,2023-04-04,North America
+1222,Product B,1,58,2023-05-24,Europe
+1223,Product A,1,98,2023-10-16,Asia
+1224,Product C,4,25,2023-01-14,Asia
+1225,Product A,4,28,2023-09-14,Asia
+1226,Product B,2,32,2023-12-12,North America
+1227,Product C,4,92,2023-07-05,Europe
+1228,Product D,1,34,2023-12-11,North America
+1229,Product B,1,25,2023-07-26,South America
+1230,Product C,1,63,2023-12-12,South America
+1231,Product C,1,82,2023-06-21,South America
+1232,Product D,1,10,2023-09-27,South America
+1233,Product A,2,51,2023-08-09,Asia
+1234,Product A,1,28,2023-06-01,Europe
+1235,Product B,2,43,2023-04-21,Asia
+1236,Product D,1,89,2023-07-02,Europe
+1237,Product A,3,64,2023-12-05,Europe
+1238,Product D,3,27,2023-03-13,North America
+1239,Product A,3,43,2023-10-10,South America
+1240,Product C,3,98,2023-03-15,Europe
+1241,Product A,2,54,2023-12-21,South America
+1242,Product D,2,15,2023-08-03,South America
+1243,Product C,4,30,2023-11-24,South America
+1244,Product C,1,79,2023-01-23,Asia
+1245,Product C,3,57,2023-03-09,South America
+1246,Product D,2,48,2023-12-28,Europe
+1247,Product B,1,40,2023-04-03,Asia
+1248,Product B,1,19,2023-11-17,South America
+1249,Product B,2,39,2023-11-20,North America
+1250,Product D,3,27,2023-03-04,South America
+1251,Product C,4,69,2023-08-12,South America
+1252,Product B,1,97,2023-08-13,Asia
+1253,Product D,4,82,2023-12-12,Europe
+1254,Product B,3,24,2023-12-03,South America
+1255,Product A,3,13,2023-04-13,Asia
+1256,Product B,4,72,2023-08-03,Asia
+1257,Product B,3,49,2023-07-11,Europe
+1258,Product C,1,18,2023-06-09,Asia
+1259,Product D,4,18,2023-07-26,Europe
+1260,Product C,3,35,2023-09-26,North America
+1261,Product C,4,13,2023-07-13,South America
+1262,Product C,1,90,2023-06-01,Asia
+1263,Product C,3,25,2023-08-25,North America
+1264,Product C,1,24,2023-03-29,Asia
+1265,Product B,3,61,2023-01-11,Asia
+1266,Product C,2,78,2023-07-06,North America
+1267,Product C,3,14,2023-08-02,Asia
+1268,Product D,4,29,2023-01-15,Asia
+1269,Product A,3,88,2023-09-23,North America
+1270,Product B,1,27,2023-10-24,Asia
+1271,Product B,1,11,2023-03-14,Europe
+1272,Product B,3,22,2023-02-21,Asia
+1273,Product C,4,13,2023-05-08,South America
+1274,Product C,2,51,2023-01-28,Asia
+1275,Product C,4,83,2023-03-06,South America
+1276,Product D,2,70,2023-01-17,South America
+1277,Product A,1,17,2023-12-17,Asia
+1278,Product C,4,76,2023-05-18,North America
+1279,Product A,2,72,2023-11-15,Europe
+1280,Product D,3,18,2023-08-17,Europe
+1281,Product B,1,20,2023-09-11,Asia
+1282,Product C,3,51,2023-07-29,North America
+1283,Product A,1,22,2023-10-21,North America
+1284,Product A,4,45,2023-08-19,Europe
+1285,Product C,4,22,2023-08-29,North America
+1286,Product B,1,21,2023-03-11,Asia
+1287,Product B,1,46,2023-04-14,Asia
+1288,Product B,1,83,2023-07-23,North America
+1289,Product D,4,82,2023-02-22,Asia
+1290,Product A,2,61,2023-11-26,South America
+1291,Product A,3,80,2023-02-23,Europe
+1292,Product A,3,11,2023-10-03,Asia
+1293,Product D,4,65,2023-12-01,North America
+1294,Product A,3,69,2023-01-31,Europe
+1295,Product D,1,32,2023-05-15,Asia
+1296,Product B,2,49,2023-02-27,Europe
+1297,Product C,3,73,2023-04-15,North America
+1298,Product A,2,94,2023-09-23,South America
+1299,Product A,1,32,2023-01-10,South America
+1300,Product B,3,38,2023-09-10,Asia
+1301,Product C,4,87,2023-10-22,South America
+1302,Product D,2,99,2023-06-05,Asia
+1303,Product C,1,60,2023-06-07,Europe
+1304,Product B,2,78,2023-02-06,Asia
+1305,Product B,3,98,2023-04-29,Asia
+1306,Product C,3,40,2023-03-08,Asia
+1307,Product D,4,59,2023-08-30,South America
+1308,Product D,1,29,2023-10-26,Asia
+1309,Product A,1,64,2023-08-01,North America
+1310,Product D,4,90,2023-11-04,Asia
+1311,Product C,4,11,2023-04-11,Europe
+1312,Product B,1,34,2023-02-25,North America
+1313,Product A,2,22,2023-11-28,Europe
+1314,Product A,2,79,2023-11-20,Europe
+1315,Product B,4,76,2023-08-27,Europe
+1316,Product D,2,67,2023-08-19,North America
+1317,Product B,1,91,2023-12-28,North America
+1318,Product D,3,84,2023-04-02,South America
+1319,Product B,3,93,2023-10-06,North America
+1320,Product C,2,73,2023-04-19,Asia
+1321,Product D,4,78,2023-11-13,Europe
+1322,Product C,4,92,2023-06-17,South America
+1323,Product A,4,95,2023-10-27,North America
+1324,Product B,4,68,2023-08-06,Europe
+1325,Product A,4,69,2023-08-10,North America
+1326,Product A,2,92,2023-06-10,South America
+1327,Product A,3,71,2023-01-16,North America
+1328,Product A,3,25,2023-10-05,North America
+1329,Product B,2,97,2023-02-26,Europe
+1330,Product A,4,77,2023-03-03,Asia
+1331,Product B,2,24,2023-12-29,North America
+1332,Product B,3,98,2023-11-23,South America
+1333,Product C,1,64,2023-08-30,North America
+1334,Product D,2,44,2023-03-31,North America
+1335,Product D,4,64,2023-03-13,Asia
+1336,Product B,3,23,2023-11-22,Europe
+1337,Product C,3,58,2023-01-30,South America
+1338,Product B,3,92,2023-12-25,Europe
+1339,Product B,3,16,2023-10-15,Europe
+1340,Product B,4,39,2023-03-27,Europe
+1341,Product C,1,92,2023-08-22,North America
+1342,Product D,3,58,2023-08-23,Asia
+1343,Product C,2,98,2023-11-09,North America
+1344,Product A,1,25,2023-12-31,South America
+1345,Product C,3,60,2023-09-22,Asia
+1346,Product C,1,81,2023-10-14,Europe
+1347,Product C,2,91,2023-11-23,Asia
+1348,Product C,3,89,2023-09-26,South America
+1349,Product D,2,92,2023-07-05,North America
+1350,Product A,4,51,2023-05-11,North America
+1351,Product D,3,26,2023-10-18,Europe
+1352,Product D,3,72,2023-10-04,North America
+1353,Product C,3,54,2023-11-16,North America
+1354,Product B,3,86,2023-12-17,South America
+1355,Product B,4,16,2023-06-29,Asia
+1356,Product D,3,36,2023-10-17,North America
+1357,Product D,1,19,2023-06-12,South America
+1358,Product C,3,43,2023-09-28,South America
+1359,Product D,4,45,2023-04-06,Europe
+1360,Product C,3,34,2023-09-19,South America
+1361,Product B,1,15,2023-12-31,Europe
+1362,Product B,4,33,2023-12-19,North America
+1363,Product A,4,27,2023-10-15,Europe
+1364,Product B,1,96,2023-03-24,South America
+1365,Product D,1,15,2023-08-13,Asia
+1366,Product B,1,38,2023-08-11,Asia
+1367,Product C,1,34,2023-04-28,North America
+1368,Product B,1,64,2023-07-11,North America
+1369,Product A,4,90,2023-03-20,Asia
+1370,Product B,4,55,2023-03-19,Europe
+1371,Product C,3,33,2023-05-27,North America
+1372,Product C,3,84,2023-04-17,South America
+1373,Product D,2,35,2023-09-28,North America
+1374,Product B,3,37,2023-09-01,Europe
+1375,Product C,3,12,2023-03-14,North America
+1376,Product A,1,84,2023-12-23,South America
+1377,Product D,1,47,2023-12-20,South America
+1378,Product A,3,70,2023-01-26,South America
+1379,Product B,2,87,2023-07-29,Europe
+1380,Product B,1,60,2023-04-02,Europe
+1381,Product B,3,99,2023-05-05,South America
+1382,Product D,3,57,2023-03-14,South America
+1383,Product C,4,30,2023-05-03,Europe
+1384,Product D,2,63,2023-11-05,Europe
+1385,Product A,4,65,2023-07-03,Europe
+1386,Product D,2,68,2023-07-06,Asia
+1387,Product A,1,81,2023-07-17,Europe
+1388,Product D,2,60,2023-03-19,South America
+1389,Product C,3,29,2023-12-14,Asia
+1390,Product A,3,95,2023-07-05,Europe
+1391,Product B,2,68,2023-12-10,South America
+1392,Product B,2,80,2023-09-10,North America
+1393,Product D,2,18,2023-01-13,Asia
+1394,Product B,4,10,2023-10-26,South America
+1395,Product A,2,38,2023-03-17,North America
+1396,Product B,1,72,2023-02-20,South America
+1397,Product C,4,81,2023-10-02,Europe
+1398,Product C,4,65,2023-05-29,Europe
+1399,Product D,2,77,2023-08-07,North America
+1400,Product A,1,44,2023-05-02,Europe
+1401,Product C,4,12,2023-07-30,South America
+1402,Product C,3,16,2023-10-07,North America
+1403,Product A,4,36,2023-01-26,South America
+1404,Product B,2,10,2023-06-22,South America
+1405,Product B,1,89,2023-06-05,South America
+1406,Product D,2,80,2023-08-26,Europe
+1407,Product B,3,53,2023-03-23,Europe
+1408,Product A,3,96,2023-12-22,South America
+1409,Product C,3,50,2023-09-30,Asia
+1410,Product B,2,84,2023-03-09,South America
+1411,Product D,4,51,2023-02-13,South America
+1412,Product B,2,42,2023-03-02,North America
+1413,Product A,1,59,2023-05-03,South America
+1414,Product D,4,72,2023-12-15,Europe
+1415,Product B,3,46,2023-07-15,North America
+1416,Product D,2,68,2023-11-26,Asia
+1417,Product A,3,90,2023-11-19,North America
+1418,Product C,3,57,2023-04-21,Asia
+1419,Product A,1,14,2023-09-15,North America
+1420,Product A,4,57,2023-03-30,North America
+1421,Product A,1,12,2023-07-17,Asia
+1422,Product A,1,56,2023-10-09,Europe
+1423,Product C,1,71,2023-07-19,Europe
+1424,Product C,3,23,2023-04-09,Europe
+1425,Product D,1,72,2023-01-27,North America
+1426,Product B,1,70,2023-03-30,South America
+1427,Product C,4,40,2023-05-26,North America
+1428,Product C,4,26,2023-07-01,South America
+1429,Product B,1,33,2023-09-14,South America
+1430,Product C,4,32,2023-07-08,Europe
+1431,Product A,4,91,2023-08-28,South America
+1432,Product A,1,59,2023-12-25,North America
+1433,Product B,3,87,2023-07-15,North America
+1434,Product D,1,88,2023-10-24,Europe
+1435,Product D,4,88,2023-06-14,Asia
+1436,Product B,3,79,2023-11-03,North America
+1437,Product B,2,36,2023-09-28,South America
+1438,Product A,3,24,2023-01-08,North America
+1439,Product D,4,59,2023-02-07,North America
+1440,Product C,3,45,2023-04-24,North America
+1441,Product A,1,17,2023-12-05,Asia
+1442,Product B,2,88,2023-02-25,South America
+1443,Product D,2,12,2023-12-25,Europe
+1444,Product C,2,71,2023-05-18,North America
+1445,Product C,4,56,2023-04-12,South America
+1446,Product A,4,86,2023-11-30,South America
+1447,Product D,2,97,2023-06-26,Europe
+1448,Product D,3,70,2023-06-18,North America
+1449,Product B,2,41,2023-12-05,Asia
+1450,Product D,3,22,2023-10-13,South America
+1451,Product D,3,10,2023-09-18,Europe
+1452,Product A,4,43,2023-08-11,Asia
+1453,Product D,3,71,2023-07-18,South America
+1454,Product C,2,88,2023-07-30,North America
+1455,Product A,4,87,2023-10-14,South America
+1456,Product A,1,91,2023-06-29,Asia
+1457,Product B,1,80,2023-09-07,Asia
+1458,Product D,4,40,2023-08-19,North America
+1459,Product B,2,73,2023-01-23,North America
+1460,Product C,1,34,2023-02-17,Europe
+1461,Product A,1,47,2023-04-19,North America
+1462,Product A,3,23,2023-10-23,Europe
+1463,Product A,3,17,2023-01-06,Asia
+1464,Product C,2,63,2023-02-07,Asia
+1465,Product C,4,11,2023-06-18,South America
+1466,Product B,2,90,2023-12-22,South America
+1467,Product B,4,87,2023-10-10,Europe
+1468,Product B,1,98,2023-07-22,North America
+1469,Product D,3,65,2023-11-21,North America
+1470,Product A,2,93,2023-11-09,South America
+1471,Product A,2,94,2023-09-30,Asia
+1472,Product B,4,70,2023-09-01,Europe
+1473,Product A,4,31,2023-11-23,Asia
+1474,Product B,2,44,2023-02-16,Asia
+1475,Product D,4,25,2023-09-06,North America
+1476,Product D,2,59,2023-03-20,Europe
+1477,Product C,2,52,2023-04-20,Asia
+1478,Product D,2,26,2023-01-13,South America
+1479,Product B,1,89,2023-12-31,South America
+1480,Product D,4,67,2023-03-31,North America
+1481,Product C,3,11,2023-12-08,South America
+1482,Product A,3,13,2023-12-14,South America
+1483,Product B,4,94,2023-10-07,Asia
+1484,Product A,2,48,2023-08-09,South America
+1485,Product C,3,15,2023-03-14,South America
+1486,Product C,3,90,2023-08-22,Asia
+1487,Product C,4,98,2023-09-17,North America
+1488,Product A,3,78,2023-04-23,North America
+1489,Product A,2,78,2023-02-15,Europe
+1490,Product A,4,29,2023-10-01,South America
+1491,Product A,2,73,2023-02-12,Asia
+1492,Product C,3,25,2023-07-27,Europe
+1493,Product C,3,60,2023-12-15,North America
+1494,Product B,2,46,2023-04-13,North America
+1495,Product B,1,82,2023-05-04,Asia
+1496,Product A,3,78,2023-01-10,Europe
+1497,Product D,1,51,2023-11-25,Europe
+1498,Product D,3,66,2023-07-06,Asia
+1499,Product C,1,75,2023-01-31,Asia
+1500,Product C,1,18,2023-06-05,Europe
+1501,Product C,1,95,2023-03-01,North America
+1502,Product B,2,73,2023-09-06,South America
+1503,Product B,1,95,2023-09-27,North America
+1504,Product C,1,31,2023-08-05,Asia
+1505,Product C,1,43,2023-01-02,Europe
+1506,Product C,3,64,2023-01-24,Europe
+1507,Product D,1,38,2023-07-25,South America
+1508,Product B,3,47,2023-11-16,Europe
+1509,Product D,1,27,2023-07-18,South America
+1510,Product D,1,80,2023-12-22,North America
+1511,Product C,2,74,2023-04-24,North America
+1512,Product C,3,10,2023-10-07,Europe
+1513,Product A,1,97,2023-06-04,Europe
+1514,Product A,3,13,2023-06-14,Asia
+1515,Product D,3,13,2023-08-10,Asia
+1516,Product B,4,91,2023-04-01,Europe
+1517,Product C,2,36,2023-06-16,Europe
+1518,Product C,2,52,2023-07-26,North America
+1519,Product D,2,68,2023-10-09,Europe
+1520,Product A,4,41,2023-03-06,Asia
+1521,Product B,4,42,2023-01-04,North America
+1522,Product A,2,37,2023-06-06,South America
+1523,Product A,4,64,2023-09-06,Asia
+1524,Product A,4,69,2023-09-14,Asia
+1525,Product A,4,79,2023-08-23,North America
+1526,Product C,2,71,2023-11-02,South America
+1527,Product C,2,89,2023-03-15,Asia
+1528,Product A,2,43,2023-07-06,Europe
+1529,Product B,4,96,2023-03-03,Asia
+1530,Product D,2,97,2023-12-03,North America
+1531,Product B,4,65,2023-06-13,North America
+1532,Product B,1,22,2023-02-25,North America
+1533,Product B,4,65,2023-04-21,Asia
+1534,Product A,3,27,2023-08-06,South America
+1535,Product C,2,63,2023-08-28,Europe
+1536,Product B,2,86,2023-01-21,North America
+1537,Product A,3,52,2023-05-21,South America
+1538,Product B,4,48,2023-09-22,Europe
+1539,Product B,1,70,2023-05-19,North America
+1540,Product A,3,51,2023-03-11,Europe
+1541,Product C,3,90,2023-04-28,Europe
+1542,Product C,4,88,2023-07-17,South America
+1543,Product D,2,27,2023-07-24,Europe
+1544,Product A,4,32,2023-08-02,North America
+1545,Product D,3,63,2023-02-25,South America
+1546,Product D,3,39,2023-10-14,Asia
+1547,Product D,2,67,2023-10-20,Asia
+1548,Product C,2,77,2023-06-24,South America
+1549,Product A,2,76,2023-12-13,Asia
+1550,Product D,4,80,2023-05-08,Europe
+1551,Product A,2,27,2023-11-21,North America
+1552,Product A,3,16,2023-10-19,Europe
+1553,Product C,3,49,2023-10-15,South America
+1554,Product D,1,79,2023-08-14,North America
+1555,Product D,4,95,2023-03-05,South America
+1556,Product A,1,74,2023-02-17,South America
+1557,Product B,3,77,2023-07-21,South America
+1558,Product C,1,58,2023-12-03,Europe
+1559,Product C,3,61,2023-03-01,North America
+1560,Product C,1,38,2023-09-14,North America
+1561,Product C,2,30,2023-03-06,North America
+1562,Product D,1,99,2023-08-27,Europe
+1563,Product D,2,87,2023-10-16,Asia
+1564,Product B,2,18,2023-02-07,Europe
+1565,Product C,4,56,2023-01-25,Europe
+1566,Product C,2,85,2023-02-28,South America
+1567,Product A,2,51,2023-12-23,North America
+1568,Product D,1,60,2023-10-24,North America
+1569,Product C,3,65,2023-06-07,Asia
+1570,Product B,4,60,2023-02-26,Asia
+1571,Product B,2,79,2023-02-17,South America
+1572,Product D,4,29,2023-11-24,North America
+1573,Product B,1,97,2023-02-25,Asia
+1574,Product B,2,36,2023-03-06,Asia
+1575,Product D,1,47,2023-09-25,North America
+1576,Product C,4,81,2023-03-10,Europe
+1577,Product C,1,74,2023-08-04,Asia
+1578,Product B,4,63,2023-03-30,North America
+1579,Product B,1,33,2023-10-08,Asia
+1580,Product C,4,56,2023-09-14,South America
+1581,Product D,3,80,2023-06-09,Asia
+1582,Product B,1,92,2023-08-22,North America
+1583,Product A,1,95,2023-05-11,Asia
+1584,Product D,3,72,2023-02-18,South America
+1585,Product B,3,66,2023-05-27,South America
+1586,Product B,1,64,2023-11-12,Asia
+1587,Product A,3,69,2023-01-02,Asia
+1588,Product A,2,71,2023-11-25,South America
+1589,Product C,4,39,2023-05-25,South America
+1590,Product D,4,31,2023-03-02,Europe
+1591,Product D,4,84,2023-09-30,Europe
+1592,Product C,2,93,2023-02-18,South America
+1593,Product D,3,38,2023-11-28,Asia
+1594,Product D,3,50,2023-05-11,North America
+1595,Product D,1,51,2023-02-12,Asia
+1596,Product D,3,74,2023-02-26,Asia
+1597,Product D,1,40,2023-02-19,Europe
+1598,Product A,2,39,2023-06-27,Europe
+1599,Product D,4,27,2023-10-20,Europe
+1600,Product A,4,26,2023-02-15,South America
+1601,Product D,4,47,2023-06-19,South America
+1602,Product C,3,23,2023-09-28,Asia
+1603,Product B,1,96,2023-12-02,Asia
+1604,Product A,1,98,2023-05-19,North America
+1605,Product D,2,88,2023-09-04,Asia
+1606,Product C,3,65,2023-05-28,Asia
+1607,Product B,2,31,2023-08-18,Europe
+1608,Product A,1,76,2023-10-07,Europe
+1609,Product B,1,65,2023-05-05,Europe
+1610,Product C,4,28,2023-07-11,Europe
+1611,Product A,3,66,2023-03-21,Europe
+1612,Product B,1,53,2023-04-04,North America
+1613,Product D,4,44,2023-08-14,North America
+1614,Product A,3,10,2023-03-06,North America
+1615,Product B,2,61,2023-03-29,Europe
+1616,Product C,3,94,2023-03-29,South America
+1617,Product C,3,79,2023-07-20,Europe
+1618,Product A,1,46,2023-08-02,Europe
+1619,Product B,1,74,2023-07-23,North America
+1620,Product A,3,60,2023-03-30,Europe
+1621,Product A,1,10,2023-03-02,North America
+1622,Product B,1,30,2023-09-28,Europe
+1623,Product B,1,62,2023-04-04,Asia
+1624,Product D,4,25,2023-11-03,South America
+1625,Product B,4,70,2023-01-27,South America
+1626,Product C,3,63,2023-08-02,North America
+1627,Product A,1,49,2023-03-15,Asia
+1628,Product A,4,35,2023-03-02,South America
+1629,Product C,3,89,2023-07-05,North America
+1630,Product B,1,74,2023-01-31,Europe
+1631,Product C,2,83,2023-08-07,Europe
+1632,Product C,1,73,2023-01-12,Asia
+1633,Product D,1,52,2023-10-29,South America
+1634,Product C,4,26,2023-02-01,Europe
+1635,Product A,3,68,2023-06-09,North America
+1636,Product C,3,32,2023-08-25,Europe
+1637,Product A,4,16,2023-08-15,Europe
+1638,Product A,1,53,2023-06-30,South America
+1639,Product A,2,62,2023-11-13,South America
+1640,Product B,1,80,2023-02-15,North America
+1641,Product D,1,88,2023-12-07,Asia
+1642,Product A,2,43,2023-03-21,Asia
+1643,Product A,4,55,2023-05-15,Europe
+1644,Product B,3,77,2023-09-17,North America
+1645,Product A,4,87,2023-11-04,Asia
+1646,Product C,4,87,2023-09-04,Asia
+1647,Product C,1,25,2023-06-08,Europe
+1648,Product D,3,80,2023-07-22,North America
+1649,Product A,3,28,2023-04-22,Asia
+1650,Product B,4,11,2023-10-19,South America
+1651,Product C,2,19,2023-11-06,South America
+1652,Product B,4,59,2023-04-29,Europe
+1653,Product B,2,90,2023-01-17,Europe
+1654,Product C,3,21,2023-11-27,Europe
+1655,Product B,4,79,2023-08-15,Europe
+1656,Product C,1,31,2023-12-27,Asia
+1657,Product B,4,41,2023-04-27,North America
+1658,Product C,3,93,2023-02-12,Europe
+1659,Product A,1,10,2023-04-25,Europe
+1660,Product D,1,63,2023-10-10,Asia
+1661,Product C,2,67,2023-02-06,Europe
+1662,Product C,1,79,2023-10-29,Europe
+1663,Product D,1,92,2023-04-23,North America
+1664,Product C,4,27,2023-02-04,South America
+1665,Product C,3,15,2023-05-12,Europe
+1666,Product B,2,54,2023-12-02,Asia
+1667,Product D,4,32,2023-12-02,North America
+1668,Product A,1,32,2023-08-16,Asia
+1669,Product C,1,35,2023-05-27,North America
+1670,Product D,2,86,2023-05-02,North America
+1671,Product B,3,16,2023-03-22,Europe
+1672,Product A,2,88,2023-06-22,Europe
+1673,Product D,4,53,2023-06-03,Europe
+1674,Product A,2,36,2023-05-30,South America
+1675,Product A,1,35,2023-02-27,South America
+1676,Product A,4,88,2023-03-04,Asia
+1677,Product C,1,45,2023-06-05,Europe
+1678,Product C,3,64,2023-12-22,South America
+1679,Product B,1,73,2023-11-18,Europe
+1680,Product B,1,66,2023-06-17,South America
+1681,Product D,2,78,2023-06-15,South America
+1682,Product B,1,70,2023-03-26,North America
+1683,Product A,4,11,2023-05-17,Europe
+1684,Product A,4,64,2023-07-08,Europe
+1685,Product C,3,89,2023-01-02,South America
+1686,Product A,4,96,2023-04-16,Europe
+1687,Product D,2,47,2023-12-30,South America
+1688,Product A,3,89,2023-03-13,Europe
+1689,Product A,4,87,2023-05-06,North America
+1690,Product D,2,38,2023-06-19,Europe
+1691,Product B,4,35,2023-07-24,North America
+1692,Product B,4,44,2023-11-09,Asia
+1693,Product D,1,88,2023-12-03,Europe
+1694,Product C,4,76,2023-07-14,Europe
+1695,Product A,4,96,2023-06-07,Europe
+1696,Product D,2,38,2023-05-21,North America
+1697,Product A,2,43,2023-10-02,Europe
+1698,Product C,1,50,2023-01-07,Europe
+1699,Product A,4,50,2023-02-23,South America
+1700,Product D,1,32,2023-04-14,Asia
+1701,Product A,4,80,2023-12-08,North America
+1702,Product B,3,12,2023-12-04,South America
+1703,Product C,3,67,2023-03-02,North America
+1704,Product C,1,41,2023-03-28,South America
+1705,Product C,1,40,2023-09-15,Asia
+1706,Product D,1,91,2023-06-27,South America
+1707,Product C,2,52,2023-08-30,North America
+1708,Product B,2,16,2023-07-22,Europe
+1709,Product D,2,10,2023-01-31,Europe
+1710,Product B,1,70,2023-10-16,Asia
+1711,Product A,4,23,2023-03-21,North America
+1712,Product A,3,61,2023-01-11,North America
+1713,Product A,1,15,2023-09-11,North America
+1714,Product A,2,19,2023-10-14,Asia
+1715,Product B,2,80,2023-06-25,Europe
+1716,Product D,1,99,2023-05-06,South America
+1717,Product D,1,39,2023-02-16,Asia
+1718,Product C,2,30,2023-07-25,South America
+1719,Product B,4,69,2023-04-17,Europe
+1720,Product A,2,90,2023-10-02,Asia
+1721,Product B,2,83,2023-12-03,Europe
+1722,Product C,1,72,2023-05-03,South America
+1723,Product C,4,51,2023-05-14,North America
+1724,Product B,2,60,2023-04-17,North America
+1725,Product B,2,73,2023-11-01,South America
+1726,Product B,3,85,2023-11-25,North America
+1727,Product D,1,65,2023-02-19,South America
+1728,Product A,3,89,2023-12-03,Asia
+1729,Product B,3,50,2023-04-05,Asia
+1730,Product B,2,41,2023-09-25,Asia
+1731,Product B,1,24,2023-01-23,North America
+1732,Product C,4,71,2023-02-23,Europe
+1733,Product C,2,36,2023-09-11,North America
+1734,Product D,4,37,2023-08-23,North America
+1735,Product A,4,90,2023-02-28,Europe
+1736,Product D,1,73,2023-06-13,Europe
+1737,Product A,3,68,2023-09-16,Europe
+1738,Product C,1,67,2023-11-10,Europe
+1739,Product C,4,11,2023-08-04,North America
+1740,Product C,2,45,2023-07-02,South America
+1741,Product D,4,80,2023-02-26,Asia
+1742,Product B,2,22,2023-05-25,South America
+1743,Product B,2,24,2023-03-31,North America
+1744,Product C,1,98,2023-11-07,Europe
+1745,Product B,4,96,2023-02-14,Asia
+1746,Product B,3,69,2023-09-14,Asia
+1747,Product D,4,31,2023-01-21,South America
+1748,Product A,4,72,2023-01-21,North America
+1749,Product C,3,99,2023-02-21,North America
+1750,Product C,1,84,2023-12-04,North America
+1751,Product D,4,83,2023-06-20,Asia
+1752,Product D,4,34,2023-03-08,South America
+1753,Product B,2,57,2023-04-23,Asia
+1754,Product C,4,52,2023-10-27,Asia
+1755,Product A,3,47,2023-06-09,Europe
+1756,Product D,2,50,2023-09-23,South America
+1757,Product A,1,54,2023-11-16,Europe
+1758,Product A,2,97,2023-08-20,North America
+1759,Product C,3,49,2023-11-21,Asia
+1760,Product C,3,26,2023-03-09,South America
+1761,Product D,2,97,2023-01-28,North America
+1762,Product C,1,66,2023-04-26,South America
+1763,Product C,2,11,2023-02-20,Asia
+1764,Product C,1,71,2023-06-30,South America
+1765,Product A,2,97,2023-09-17,North America
+1766,Product D,3,18,2023-03-20,Europe
+1767,Product B,4,77,2023-09-30,Asia
+1768,Product A,4,90,2023-04-18,Europe
+1769,Product C,1,26,2023-03-15,Asia
+1770,Product A,1,59,2023-06-24,North America
+1771,Product C,1,49,2023-07-03,Asia
+1772,Product C,3,67,2023-01-23,Europe
+1773,Product A,2,84,2023-10-01,Asia
+1774,Product D,3,94,2023-05-09,North America
+1775,Product C,4,30,2023-10-18,Asia
+1776,Product D,1,27,2023-11-16,Europe
+1777,Product B,2,64,2023-07-05,North America
+1778,Product C,4,38,2023-02-28,Europe
+1779,Product D,4,33,2023-01-01,Asia
+1780,Product D,4,83,2023-05-11,South America
+1781,Product B,3,26,2023-03-08,Europe
+1782,Product D,1,27,2023-10-20,Asia
+1783,Product D,4,51,2023-10-12,South America
+1784,Product B,1,93,2023-03-30,South America
+1785,Product C,3,54,2023-04-10,North America
+1786,Product D,4,91,2023-07-08,South America
+1787,Product D,3,26,2023-12-12,Europe
+1788,Product D,3,82,2023-08-29,Europe
+1789,Product A,1,23,2023-09-27,South America
+1790,Product B,4,58,2023-08-07,Asia
+1791,Product A,3,38,2023-06-25,Europe
+1792,Product B,4,13,2023-12-07,Europe
+1793,Product C,1,91,2023-08-21,North America
+1794,Product C,3,29,2023-05-31,Asia
+1795,Product D,1,56,2023-10-04,South America
+1796,Product B,4,18,2023-08-17,Asia
+1797,Product C,4,86,2023-06-20,North America
+1798,Product B,1,88,2023-08-11,North America
+1799,Product C,2,36,2023-08-01,Asia
+1800,Product A,3,24,2023-10-09,North America
+1801,Product C,4,28,2023-02-10,North America
+1802,Product A,4,99,2023-05-02,North America
+1803,Product C,3,61,2023-08-15,Asia
+1804,Product D,1,35,2023-10-21,North America
+1805,Product A,1,98,2023-03-29,South America
+1806,Product C,1,35,2023-09-24,South America
+1807,Product D,2,35,2023-01-29,Europe
+1808,Product A,2,55,2023-09-04,South America
+1809,Product D,4,58,2023-11-12,Europe
+1810,Product B,1,91,2023-09-01,Asia
+1811,Product B,3,62,2023-03-02,North America
+1812,Product A,4,12,2023-05-27,South America
+1813,Product C,3,75,2023-06-23,Europe
+1814,Product A,4,51,2023-10-05,Asia
+1815,Product D,2,28,2023-11-30,Europe
+1816,Product C,4,26,2023-05-22,North America
+1817,Product B,2,42,2023-02-13,South America
+1818,Product C,4,85,2023-05-24,Asia
+1819,Product B,1,58,2023-12-19,Europe
+1820,Product C,3,65,2023-11-29,Asia
+1821,Product C,1,72,2023-02-24,Europe
+1822,Product C,4,12,2023-11-03,Europe
+1823,Product D,4,58,2023-12-24,North America
+1824,Product D,4,64,2023-06-10,North America
+1825,Product A,2,35,2023-10-12,Europe
+1826,Product A,3,81,2023-11-21,South America
+1827,Product B,3,61,2023-07-17,Asia
+1828,Product D,4,16,2023-06-08,Asia
+1829,Product B,4,55,2023-03-21,North America
+1830,Product A,2,55,2023-01-31,South America
+1831,Product B,1,25,2023-04-22,Europe
+1832,Product A,1,33,2023-02-15,North America
+1833,Product D,3,70,2023-12-19,Europe
+1834,Product C,2,63,2023-07-24,Europe
+1835,Product D,4,71,2023-02-21,North America
+1836,Product B,3,10,2023-05-18,South America
+1837,Product B,2,58,2023-03-15,Asia
+1838,Product D,1,34,2023-02-10,North America
+1839,Product D,2,19,2023-03-18,South America
+1840,Product A,1,89,2023-07-06,Europe
+1841,Product B,2,25,2023-02-21,North America
+1842,Product B,3,67,2023-03-28,Asia
+1843,Product D,1,81,2023-04-19,Asia
+1844,Product C,3,38,2023-08-13,Europe
+1845,Product B,3,15,2023-09-05,North America
+1846,Product C,1,25,2023-03-10,Asia
+1847,Product D,1,29,2023-04-30,North America
+1848,Product D,4,89,2023-03-08,Asia
+1849,Product A,4,80,2023-03-02,Europe
+1850,Product B,4,87,2023-11-23,Europe
+1851,Product C,3,52,2023-07-10,North America
+1852,Product A,3,35,2023-07-08,South America
+1853,Product B,4,99,2023-05-31,South America
+1854,Product A,3,87,2023-10-13,Europe
+1855,Product D,3,80,2023-04-06,Asia
+1856,Product B,1,42,2023-11-08,South America
+1857,Product A,1,35,2023-11-05,Europe
+1858,Product A,3,54,2023-09-20,Asia
+1859,Product C,4,93,2023-04-07,Asia
+1860,Product A,2,72,2023-04-23,South America
+1861,Product B,4,76,2023-05-05,Europe
+1862,Product B,2,61,2023-05-12,Asia
+1863,Product C,4,77,2023-05-01,Asia
+1864,Product B,1,35,2023-07-16,North America
+1865,Product D,3,84,2023-10-21,North America
+1866,Product B,3,11,2023-05-02,South America
+1867,Product B,1,23,2023-10-09,North America
+1868,Product A,2,39,2023-09-17,Europe
+1869,Product A,2,58,2023-02-08,South America
+1870,Product B,2,21,2023-02-23,South America
+1871,Product C,1,99,2023-06-10,North America
+1872,Product A,2,53,2023-10-16,Asia
+1873,Product C,1,42,2023-07-19,Europe
+1874,Product B,4,22,2023-10-03,Europe
+1875,Product B,4,87,2023-01-16,Europe
+1876,Product D,1,97,2023-06-22,South America
+1877,Product A,3,35,2023-09-05,Europe
+1878,Product B,4,30,2023-08-06,Asia
+1879,Product D,2,37,2023-03-28,Asia
+1880,Product A,1,57,2023-03-23,North America
+1881,Product B,2,49,2023-03-03,Europe
+1882,Product B,2,75,2023-10-14,South America
+1883,Product A,3,82,2023-02-11,North America
+1884,Product A,2,96,2023-01-12,Asia
+1885,Product A,3,88,2023-11-17,Europe
+1886,Product B,4,86,2023-08-22,Asia
+1887,Product B,1,32,2023-11-25,North America
+1888,Product D,2,90,2023-05-11,Asia
+1889,Product C,1,57,2023-04-25,Europe
+1890,Product A,2,11,2023-08-06,Europe
+1891,Product B,1,93,2023-05-17,North America
+1892,Product B,2,29,2023-04-16,Europe
+1893,Product A,2,68,2023-06-28,Asia
+1894,Product C,2,55,2023-01-16,Asia
+1895,Product A,2,12,2023-08-30,South America
+1896,Product C,2,64,2023-11-30,South America
+1897,Product B,2,21,2023-08-14,South America
+1898,Product C,2,49,2023-08-30,Asia
+1899,Product D,2,75,2023-05-21,Asia
+1900,Product B,2,87,2023-07-18,North America
+1901,Product D,1,25,2023-04-22,South America
+1902,Product A,3,92,2023-05-07,Asia
+1903,Product A,2,43,2023-01-21,North America
+1904,Product A,3,53,2023-05-27,Asia
+1905,Product C,2,15,2023-03-30,North America
+1906,Product B,2,86,2023-10-30,South America
+1907,Product A,1,73,2023-07-22,South America
+1908,Product A,4,31,2023-03-26,South America
+1909,Product B,4,27,2023-06-16,Asia
+1910,Product A,1,21,2023-03-13,Asia
+1911,Product D,3,61,2023-10-25,North America
+1912,Product B,4,60,2023-01-09,Europe
+1913,Product B,1,80,2023-10-08,Europe
+1914,Product B,1,57,2023-09-15,South America
+1915,Product D,4,28,2023-10-02,Europe
+1916,Product B,3,15,2023-08-26,South America
+1917,Product D,1,93,2023-01-20,North America
+1918,Product B,2,36,2023-08-21,Europe
+1919,Product C,3,62,2023-08-09,Europe
+1920,Product A,3,57,2023-11-22,South America
+1921,Product C,4,16,2023-01-17,North America
+1922,Product A,4,68,2023-03-30,Europe
+1923,Product D,2,78,2023-07-15,Europe
+1924,Product C,1,20,2023-12-16,Europe
+1925,Product B,4,24,2023-03-25,North America
+1926,Product A,4,73,2023-03-28,North America
+1927,Product A,3,12,2023-11-03,Europe
+1928,Product C,4,78,2023-12-04,South America
+1929,Product D,4,32,2023-06-03,South America
+1930,Product C,4,62,2023-08-16,Europe
+1931,Product D,4,46,2023-09-21,North America
+1932,Product D,3,18,2023-08-11,Europe
+1933,Product A,2,24,2023-05-01,North America
+1934,Product C,2,12,2023-06-22,Europe
+1935,Product C,1,79,2023-01-04,North America
+1936,Product D,4,26,2023-12-08,Asia
+1937,Product C,3,35,2023-05-08,South America
+1938,Product B,1,30,2023-04-20,Asia
+1939,Product B,1,81,2023-12-21,South America
+1940,Product C,2,30,2023-02-06,North America
+1941,Product C,3,20,2023-03-12,Asia
+1942,Product D,3,47,2023-10-16,South America
+1943,Product B,3,81,2023-01-31,Europe
+1944,Product B,2,97,2023-09-25,North America
+1945,Product A,2,44,2023-01-11,North America
+1946,Product D,2,23,2023-12-10,Europe
+1947,Product A,2,23,2023-11-24,Europe
+1948,Product B,2,19,2023-02-01,South America
+1949,Product D,4,21,2023-02-26,North America
+1950,Product C,4,47,2023-06-15,South America
+1951,Product D,3,43,2023-07-07,Europe
+1952,Product C,1,50,2023-12-08,North America
+1953,Product C,3,19,2023-01-19,Europe
+1954,Product D,1,26,2023-04-26,South America
+1955,Product C,2,26,2023-07-03,South America
+1956,Product A,1,76,2023-09-27,South America
+1957,Product B,3,71,2023-02-02,North America
+1958,Product C,3,10,2023-01-10,Europe
+1959,Product A,1,21,2023-03-21,Europe
+1960,Product C,4,13,2023-07-11,South America
+1961,Product B,2,51,2023-11-16,South America
+1962,Product A,2,22,2023-07-09,South America
+1963,Product B,3,94,2023-03-09,South America
+1964,Product B,4,95,2023-12-14,Asia
+1965,Product A,1,13,2023-05-05,Asia
+1966,Product A,2,91,2023-12-02,Asia
+1967,Product A,4,78,2023-02-28,South America
+1968,Product D,2,28,2023-04-07,South America
+1969,Product A,4,11,2023-10-02,Europe
+1970,Product A,4,21,2023-05-29,North America
+1971,Product A,3,90,2023-10-05,Europe
+1972,Product A,2,83,2023-09-22,Asia
+1973,Product C,1,15,2023-01-09,Europe
+1974,Product D,3,17,2023-10-10,South America
+1975,Product B,3,60,2023-09-30,Asia
+1976,Product A,1,20,2023-10-28,Asia
+1977,Product C,3,72,2023-01-08,North America
+1978,Product C,4,66,2023-07-27,North America
+1979,Product C,4,21,2023-05-05,Asia
+1980,Product B,2,82,2023-05-03,Asia
+1981,Product A,2,11,2023-02-02,Europe
+1982,Product D,1,17,2023-01-01,Asia
+1983,Product D,2,20,2023-07-23,South America
+1984,Product C,4,62,2023-01-06,Europe
+1985,Product B,1,19,2023-10-24,South America
+1986,Product B,1,94,2023-01-05,South America
+1987,Product B,2,93,2023-03-21,South America
+1988,Product D,4,17,2023-10-01,Asia
+1989,Product C,1,45,2023-06-26,North America
+1990,Product A,4,85,2023-12-04,North America
+1991,Product D,4,23,2023-11-17,South America
+1992,Product C,4,63,2023-12-05,Asia
+1993,Product C,2,94,2023-05-16,Europe
+1994,Product A,3,95,2023-01-25,South America
+1995,Product A,3,30,2023-11-21,Europe
+1996,Product A,1,59,2023-07-02,Europe
+1997,Product B,4,48,2023-06-17,Asia
+1998,Product A,2,29,2023-12-04,Asia
+1999,Product C,4,97,2023-06-27,North America
+2000,Product A,4,96,2023-04-05,North America
+2001,Product C,2,16,2023-02-02,Asia
+2002,Product D,3,18,2023-04-21,South America
+2003,Product B,4,10,2023-05-26,North America
+2004,Product D,4,35,2023-08-19,Europe
+2005,Product D,3,47,2023-09-29,South America
+2006,Product C,2,47,2023-12-02,Europe
+2007,Product D,1,70,2023-02-07,Asia
+2008,Product C,3,53,2023-05-15,Europe
+2009,Product A,1,95,2023-11-30,South America
+2010,Product A,1,53,2023-08-23,Asia
+2011,Product C,3,83,2023-11-15,South America
+2012,Product A,4,71,2023-12-11,Europe
+2013,Product B,1,15,2023-06-09,South America
+2014,Product D,1,26,2023-02-07,Asia
+2015,Product B,2,60,2023-05-30,Europe
+2016,Product D,4,47,2023-11-04,Europe
+2017,Product A,1,33,2023-01-29,North America
+2018,Product B,2,60,2023-05-24,North America
+2019,Product A,4,19,2023-03-17,South America
+2020,Product D,3,81,2023-05-25,North America
+2021,Product C,3,30,2023-08-17,North America
+2022,Product C,2,79,2023-03-05,North America
+2023,Product B,3,94,2023-12-13,North America
+2024,Product A,1,66,2023-12-11,Asia
+2025,Product A,4,48,2023-09-26,Asia
+2026,Product B,1,97,2023-11-24,North America
+2027,Product C,1,42,2023-07-03,South America
+2028,Product D,3,68,2023-09-18,Asia
+2029,Product B,1,27,2023-09-25,North America
+2030,Product D,3,65,2023-06-18,Asia
+2031,Product C,4,66,2023-09-16,Europe
+2032,Product A,4,85,2023-08-15,Asia
+2033,Product C,1,57,2023-02-02,Asia
+2034,Product B,2,51,2023-08-02,South America
+2035,Product A,3,36,2023-02-19,Asia
+2036,Product B,3,83,2023-07-29,South America
+2037,Product B,1,61,2023-01-29,Europe
+2038,Product C,3,51,2023-02-08,North America
+2039,Product B,3,41,2023-12-13,South America
+2040,Product C,2,35,2023-04-10,Asia
+2041,Product A,2,34,2023-06-22,Asia
+2042,Product C,1,84,2023-01-17,South America
+2043,Product A,2,32,2023-02-25,Europe
+2044,Product C,1,66,2023-08-14,North America
+2045,Product D,4,61,2023-02-15,Asia
+2046,Product D,1,96,2023-03-08,Europe
+2047,Product B,4,40,2023-07-16,North America
+2048,Product C,1,73,2023-05-22,North America
+2049,Product C,3,80,2023-11-19,Asia
+2050,Product A,2,42,2023-01-23,South America
+2051,Product B,4,94,2023-04-04,Asia
+2052,Product C,1,11,2023-08-30,Asia
+2053,Product B,2,27,2023-08-25,Asia
+2054,Product D,1,56,2023-02-23,Europe
+2055,Product C,2,42,2023-05-18,South America
+2056,Product C,2,93,2023-11-29,Europe
+2057,Product B,1,44,2023-09-29,Asia
+2058,Product C,4,60,2023-02-10,South America
+2059,Product B,4,27,2023-04-08,North America
+2060,Product C,3,97,2023-07-02,South America
+2061,Product A,2,81,2023-05-08,Asia
+2062,Product B,3,39,2023-08-17,South America
+2063,Product C,3,53,2023-11-13,North America
+2064,Product D,1,62,2023-03-27,North America
+2065,Product C,1,19,2023-09-13,South America
+2066,Product D,1,96,2023-07-28,North America
+2067,Product D,2,61,2023-08-03,Europe
+2068,Product A,1,58,2023-04-10,South America
+2069,Product B,1,20,2023-02-18,North America
+2070,Product C,2,75,2023-07-20,North America
+2071,Product A,2,67,2023-09-15,South America
+2072,Product C,4,99,2023-06-27,Europe
+2073,Product D,1,45,2023-09-02,South America
+2074,Product B,1,42,2023-05-03,North America
+2075,Product C,1,56,2023-12-08,South America
+2076,Product C,4,22,2023-06-20,North America
+2077,Product D,1,49,2023-11-29,Asia
+2078,Product C,4,98,2023-05-16,South America
+2079,Product C,3,77,2023-02-28,South America
+2080,Product D,4,51,2023-07-12,North America
+2081,Product A,3,28,2023-09-25,North America
+2082,Product D,1,91,2023-09-17,North America
+2083,Product A,3,28,2023-04-05,North America
+2084,Product B,4,67,2023-05-05,South America
+2085,Product A,2,32,2023-02-10,North America
+2086,Product A,3,63,2023-09-11,South America
+2087,Product B,3,89,2023-01-07,Europe
+2088,Product A,1,74,2023-08-04,South America
+2089,Product D,4,21,2023-03-10,North America
+2090,Product A,3,33,2023-03-10,North America
+2091,Product B,3,43,2023-03-22,Europe
+2092,Product D,3,62,2023-01-30,South America
+2093,Product B,3,17,2023-03-14,Europe
+2094,Product B,2,27,2023-09-19,South America
+2095,Product C,4,66,2023-03-30,North America
+2096,Product C,1,14,2023-07-27,South America
+2097,Product B,1,35,2023-08-01,North America
+2098,Product B,2,39,2023-11-18,North America
+2099,Product B,4,63,2023-09-23,Asia
+2100,Product C,3,22,2023-10-20,Asia
+2101,Product C,2,92,2023-07-26,South America
+2102,Product A,4,38,2023-11-29,North America
+2103,Product A,3,12,2023-03-18,Europe
+2104,Product B,2,99,2023-10-15,North America
+2105,Product D,4,67,2023-02-16,Europe
+2106,Product D,1,85,2023-04-20,South America
+2107,Product C,1,11,2023-07-19,South America
+2108,Product C,4,84,2023-07-29,Europe
+2109,Product C,1,37,2023-06-03,Europe
+2110,Product B,4,91,2023-01-10,North America
+2111,Product D,3,86,2023-12-19,South America
+2112,Product A,4,95,2023-06-06,North America
+2113,Product B,3,85,2023-09-18,Europe
+2114,Product A,2,11,2023-03-18,Asia
+2115,Product A,4,16,2023-09-14,Asia
+2116,Product B,2,35,2023-05-11,Asia
+2117,Product A,1,99,2023-03-08,Europe
+2118,Product D,3,97,2023-08-16,North America
+2119,Product A,4,85,2023-06-12,South America
+2120,Product D,2,25,2023-01-15,Europe
+2121,Product D,3,32,2023-08-20,Asia
+2122,Product D,3,49,2023-07-14,North America
+2123,Product C,1,69,2023-12-15,South America
+2124,Product A,1,82,2023-01-30,South America
+2125,Product B,3,41,2023-12-25,Europe
+2126,Product B,3,24,2023-12-04,Europe
+2127,Product A,4,22,2023-11-27,South America
+2128,Product C,3,14,2023-11-12,South America
+2129,Product C,4,84,2023-10-23,Asia
+2130,Product D,3,83,2023-11-26,South America
+2131,Product A,1,61,2023-08-08,Europe
+2132,Product A,4,86,2023-05-27,North America
+2133,Product B,2,50,2023-09-16,Asia
+2134,Product A,1,62,2023-10-19,Asia
+2135,Product C,4,59,2023-10-26,South America
+2136,Product A,4,24,2023-05-23,North America
+2137,Product B,2,16,2023-08-23,Asia
+2138,Product D,4,49,2023-04-25,Europe
+2139,Product B,3,37,2023-12-31,South America
+2140,Product B,2,41,2023-03-31,Europe
+2141,Product D,1,24,2023-07-27,South America
+2142,Product B,1,94,2023-06-13,Asia
+2143,Product B,3,79,2023-03-25,South America
+2144,Product A,1,74,2023-03-18,North America
+2145,Product A,4,13,2023-06-10,Europe
+2146,Product D,4,20,2023-01-05,North America
+2147,Product A,3,35,2023-03-19,Europe
+2148,Product A,1,70,2023-04-01,Europe
+2149,Product B,1,46,2023-03-28,South America
+2150,Product C,3,32,2023-09-27,Asia
+2151,Product A,2,94,2023-04-14,Asia
+2152,Product C,1,49,2023-12-05,North America
+2153,Product A,2,86,2023-06-24,South America
+2154,Product A,1,32,2023-02-23,Asia
+2155,Product D,1,25,2023-07-30,Europe
+2156,Product D,1,70,2023-04-05,Europe
+2157,Product D,1,77,2023-08-11,South America
+2158,Product C,4,89,2023-01-09,North America
+2159,Product B,2,40,2023-02-22,South America
+2160,Product A,2,62,2023-03-18,North America
+2161,Product A,1,34,2023-07-25,South America
+2162,Product A,1,53,2023-11-12,Europe
+2163,Product C,2,21,2023-10-29,South America
+2164,Product D,4,99,2023-11-06,Asia
+2165,Product B,3,18,2023-11-26,Asia
+2166,Product C,3,21,2023-04-22,South America
+2167,Product D,2,78,2023-12-17,North America
+2168,Product C,1,63,2023-06-14,North America
+2169,Product B,1,63,2023-10-06,Europe
+2170,Product D,4,37,2023-01-27,Europe
+2171,Product C,3,65,2023-03-11,North America
+2172,Product B,4,78,2023-08-06,South America
+2173,Product A,3,86,2023-12-31,Europe
+2174,Product B,2,67,2023-07-08,North America
+2175,Product A,3,87,2023-11-29,North America
+2176,Product C,4,84,2023-11-02,South America
+2177,Product D,4,51,2023-05-04,Asia
+2178,Product D,4,47,2023-01-19,North America
+2179,Product C,2,77,2023-09-14,Europe
+2180,Product D,3,62,2023-10-23,South America
+2181,Product D,3,42,2023-01-22,South America
+2182,Product A,4,80,2023-02-09,South America
+2183,Product C,3,65,2023-02-07,Asia
+2184,Product B,1,81,2023-02-17,Asia
+2185,Product A,1,60,2023-07-02,Europe
+2186,Product C,1,83,2023-03-16,Europe
+2187,Product A,3,52,2023-07-28,South America
+2188,Product B,2,24,2023-07-02,Europe
+2189,Product B,2,47,2023-04-17,North America
+2190,Product C,2,24,2023-07-07,Asia
+2191,Product B,2,14,2023-09-21,South America
+2192,Product A,1,92,2023-03-27,South America
+2193,Product B,1,63,2023-11-20,North America
+2194,Product A,4,60,2023-11-27,North America
+2195,Product A,3,19,2023-05-17,North America
+2196,Product B,3,21,2023-12-12,North America
+2197,Product C,2,13,2023-12-02,South America
+2198,Product D,1,27,2023-04-05,Asia
+2199,Product B,2,89,2023-11-22,Asia
+2200,Product A,4,45,2023-09-02,North America
+2201,Product A,3,34,2023-03-31,Europe
+2202,Product B,3,96,2023-02-28,South America
+2203,Product C,2,85,2023-01-28,Asia
+2204,Product C,4,45,2023-03-13,North America
+2205,Product A,3,76,2023-09-27,Europe
+2206,Product A,4,18,2023-01-24,Europe
+2207,Product C,4,70,2023-04-22,North America
+2208,Product D,2,62,2023-10-27,South America
+2209,Product B,1,27,2023-02-25,Asia
+2210,Product A,2,52,2023-08-11,Europe
+2211,Product A,1,44,2023-04-30,Asia
+2212,Product C,4,72,2023-06-28,Asia
+2213,Product B,1,87,2023-10-15,Europe
+2214,Product C,4,13,2023-10-08,North America
+2215,Product B,3,50,2023-07-08,Europe
+2216,Product B,3,54,2023-03-07,Europe
+2217,Product B,3,59,2023-10-25,South America
+2218,Product A,2,88,2023-09-06,Asia
+2219,Product D,2,37,2023-03-17,North America
+2220,Product C,4,51,2023-05-17,Asia
+2221,Product D,3,89,2023-06-13,Europe
+2222,Product C,2,85,2023-08-21,North America
+2223,Product B,3,78,2023-09-12,North America
+2224,Product A,2,10,2023-10-21,North America
+2225,Product D,1,48,2023-06-19,North America
+2226,Product A,1,99,2023-11-13,South America
+2227,Product C,3,26,2023-06-23,North America
+2228,Product A,4,97,2023-12-11,Europe
+2229,Product A,2,44,2023-01-18,South America
+2230,Product D,2,55,2023-03-11,Europe
+2231,Product B,1,51,2023-12-04,Europe
+2232,Product A,1,48,2023-04-26,Asia
+2233,Product B,4,99,2023-03-21,North America
+2234,Product C,4,58,2023-01-15,North America
+2235,Product A,4,71,2023-06-25,Europe
+2236,Product D,3,47,2023-09-26,North America
+2237,Product C,1,32,2023-04-29,South America
+2238,Product C,3,31,2023-10-26,Asia
+2239,Product D,1,13,2023-07-07,North America
+2240,Product A,1,58,2023-02-26,North America
+2241,Product A,2,68,2023-07-18,South America
+2242,Product C,1,82,2023-01-17,Asia
+2243,Product A,1,77,2023-10-15,South America
+2244,Product B,3,80,2023-02-24,Europe
+2245,Product D,1,96,2023-09-26,Europe
+2246,Product B,3,11,2023-10-30,North America
+2247,Product A,4,58,2023-03-28,Asia
+2248,Product C,1,97,2023-11-14,Europe
+2249,Product D,1,40,2023-01-29,South America
+2250,Product A,3,49,2023-01-22,Europe
+2251,Product A,4,57,2023-11-17,Europe
+2252,Product C,2,60,2023-10-12,South America
+2253,Product C,4,52,2023-02-17,North America
+2254,Product B,3,64,2023-01-05,Asia
+2255,Product D,4,97,2023-09-07,North America
+2256,Product D,3,58,2023-06-12,South America
+2257,Product C,3,99,2023-07-21,Europe
+2258,Product B,2,89,2023-04-11,Asia
+2259,Product D,1,66,2023-03-12,North America
+2260,Product C,3,86,2023-06-12,South America
+2261,Product A,3,24,2023-06-22,Europe
+2262,Product D,2,36,2023-05-21,Europe
+2263,Product B,3,77,2023-05-18,North America
+2264,Product B,1,89,2023-03-07,South America
+2265,Product B,2,73,2023-07-17,Europe
+2266,Product A,1,39,2023-11-24,Europe
+2267,Product D,1,45,2023-08-16,Asia
+2268,Product D,2,76,2023-10-08,Europe
+2269,Product A,3,95,2023-06-21,North America
+2270,Product D,1,95,2023-11-12,South America
+2271,Product A,1,58,2023-02-09,South America
+2272,Product A,1,85,2023-01-07,Asia
+2273,Product A,1,64,2023-06-23,South America
+2274,Product B,2,94,2023-05-31,North America
+2275,Product D,2,65,2023-07-30,Europe
+2276,Product A,4,77,2023-10-29,Asia
+2277,Product D,4,53,2023-03-27,South America
+2278,Product B,1,40,2023-09-10,Asia
+2279,Product A,3,67,2023-01-21,Asia
+2280,Product C,1,96,2023-09-14,South America
+2281,Product B,3,62,2023-02-02,Asia
+2282,Product C,1,93,2023-09-17,South America
+2283,Product D,4,88,2023-08-22,North America
+2284,Product D,4,32,2023-01-03,South America
+2285,Product B,3,37,2023-12-13,Europe
+2286,Product D,1,25,2023-11-04,South America
+2287,Product C,3,46,2023-08-15,Europe
+2288,Product A,4,30,2023-10-11,Asia
+2289,Product A,1,88,2023-03-11,South America
+2290,Product A,1,26,2023-11-09,Europe
+2291,Product B,3,46,2023-12-30,South America
+2292,Product D,2,86,2023-09-11,South America
+2293,Product C,3,28,2023-05-24,South America
+2294,Product D,4,39,2023-01-24,North America
+2295,Product D,4,54,2023-08-22,Europe
+2296,Product D,4,27,2023-11-29,North America
+2297,Product A,4,87,2023-06-24,North America
+2298,Product C,4,71,2023-11-28,Europe
+2299,Product C,2,45,2023-11-21,South America
+2300,Product D,1,93,2023-12-23,North America
+2301,Product A,3,61,2023-06-08,North America
+2302,Product A,3,28,2023-12-14,North America
+2303,Product C,4,53,2023-12-14,South America
+2304,Product A,3,16,2023-10-13,North America
+2305,Product A,4,53,2023-01-18,Asia
+2306,Product A,2,77,2023-02-13,Europe
+2307,Product B,2,43,2023-06-04,Asia
+2308,Product D,1,75,2023-12-21,South America
+2309,Product C,2,78,2023-08-19,North America
+2310,Product C,2,64,2023-11-12,Europe
+2311,Product B,1,19,2023-08-13,North America
+2312,Product D,3,51,2023-08-05,South America
+2313,Product C,4,50,2023-02-25,Europe
+2314,Product A,4,86,2023-01-31,Asia
+2315,Product C,3,78,2023-12-23,Europe
+2316,Product A,1,19,2023-02-28,North America
+2317,Product B,3,19,2023-12-19,Europe
+2318,Product A,2,69,2023-08-23,South America
+2319,Product C,1,60,2023-04-17,South America
+2320,Product C,1,30,2023-07-10,Europe
+2321,Product C,1,17,2023-01-18,South America
+2322,Product B,4,74,2023-08-14,South America
+2323,Product B,3,87,2023-06-16,South America
+2324,Product D,1,94,2023-03-12,Asia
+2325,Product C,1,39,2023-12-28,North America
+2326,Product A,1,94,2023-02-23,South America
+2327,Product B,3,58,2023-09-02,Europe
+2328,Product C,4,18,2023-12-16,South America
+2329,Product C,2,26,2023-03-17,Asia
+2330,Product B,4,78,2023-02-04,Europe
+2331,Product D,1,67,2023-09-24,North America
+2332,Product B,4,66,2023-11-13,Europe
+2333,Product B,4,71,2023-10-27,Europe
+2334,Product A,2,61,2023-05-01,Europe
+2335,Product A,3,70,2023-11-20,Europe
+2336,Product D,3,49,2023-01-25,South America
+2337,Product C,4,47,2023-06-09,North America
+2338,Product B,4,52,2023-03-25,South America
+2339,Product D,3,72,2023-04-24,Asia
+2340,Product A,3,28,2023-08-11,Asia
+2341,Product B,2,59,2023-06-15,Europe
+2342,Product C,1,42,2023-07-10,South America
+2343,Product A,4,22,2023-06-24,South America
+2344,Product A,3,87,2023-01-01,North America
+2345,Product A,4,71,2023-08-17,North America
+2346,Product D,4,52,2023-03-27,North America
+2347,Product C,3,58,2023-03-03,South America
+2348,Product B,2,45,2023-11-16,North America
+2349,Product D,4,19,2023-07-25,North America
+2350,Product D,2,15,2023-04-15,North America
+2351,Product D,3,66,2023-11-14,Europe
+2352,Product A,1,10,2023-10-18,Asia
+2353,Product C,1,80,2023-09-07,Asia
+2354,Product D,4,67,2023-01-13,South America
+2355,Product B,3,30,2023-06-12,South America
+2356,Product C,2,89,2023-02-12,Europe
+2357,Product B,4,65,2023-04-21,Asia
+2358,Product C,3,96,2023-07-24,North America
+2359,Product B,3,29,2023-09-13,North America
+2360,Product A,2,63,2023-11-03,South America
+2361,Product D,4,34,2023-05-24,Asia
+2362,Product B,3,37,2023-05-26,South America
+2363,Product C,3,14,2023-10-28,South America
+2364,Product D,3,30,2023-06-13,North America
+2365,Product D,2,27,2023-06-18,North America
+2366,Product C,4,56,2023-10-25,Asia
+2367,Product B,4,79,2023-08-21,South America
+2368,Product A,4,66,2023-09-28,Europe
+2369,Product A,4,28,2023-03-01,Asia
+2370,Product B,1,74,2023-10-23,South America
+2371,Product D,1,12,2023-08-23,Asia
+2372,Product D,4,51,2023-06-14,Asia
+2373,Product D,2,30,2023-07-13,Asia
+2374,Product D,1,49,2023-08-22,Europe
+2375,Product B,3,76,2023-07-02,Europe
+2376,Product D,1,34,2023-11-29,North America
+2377,Product C,3,64,2023-08-20,North America
+2378,Product D,4,93,2023-12-27,South America
+2379,Product A,1,61,2023-04-17,Asia
+2380,Product D,2,53,2023-08-11,South America
+2381,Product B,1,94,2023-03-21,North America
+2382,Product A,1,65,2023-08-22,Europe
+2383,Product B,1,64,2023-07-03,North America
+2384,Product B,4,96,2023-07-04,South America
+2385,Product A,2,79,2023-05-14,North America
+2386,Product B,1,86,2023-08-08,South America
+2387,Product B,2,96,2023-10-15,South America
+2388,Product D,4,82,2023-12-30,South America
+2389,Product C,3,90,2023-07-21,South America
+2390,Product B,1,75,2023-05-26,North America
+2391,Product B,2,28,2023-11-20,South America
+2392,Product B,2,92,2023-05-07,South America
+2393,Product D,4,16,2023-05-15,Asia
+2394,Product C,1,72,2023-04-24,South America
+2395,Product A,3,51,2023-09-21,North America
+2396,Product D,2,51,2023-03-05,South America
+2397,Product D,1,68,2023-05-15,Europe
+2398,Product C,3,29,2023-02-10,Europe
+2399,Product C,2,82,2023-10-23,South America
+2400,Product D,2,26,2023-01-03,Europe
+2401,Product A,3,36,2023-07-13,Europe
+2402,Product D,3,56,2023-04-20,North America
+2403,Product C,4,11,2023-08-09,Asia
+2404,Product A,1,72,2023-01-04,Europe
+2405,Product C,1,71,2023-09-01,Europe
+2406,Product A,4,28,2023-06-15,Asia
+2407,Product B,2,26,2023-01-26,Asia
+2408,Product C,3,78,2023-01-17,Europe
+2409,Product C,3,48,2023-08-04,South America
+2410,Product D,3,91,2023-04-02,Europe
+2411,Product C,2,80,2023-01-31,South America
+2412,Product C,3,90,2023-07-24,South America
+2413,Product B,3,48,2023-07-26,South America
+2414,Product C,4,45,2023-04-17,Asia
+2415,Product B,2,49,2023-05-26,Europe
+2416,Product B,1,54,2023-04-11,Europe
+2417,Product B,4,13,2023-11-14,North America
+2418,Product B,4,34,2023-08-29,Asia
+2419,Product A,1,78,2023-09-04,North America
+2420,Product D,4,39,2023-06-12,North America
+2421,Product A,2,85,2023-06-22,South America
+2422,Product C,3,77,2023-02-04,Asia
+2423,Product A,2,97,2023-10-11,North America
+2424,Product A,1,38,2023-12-25,Europe
+2425,Product C,1,82,2023-12-24,North America
+2426,Product C,4,77,2023-01-21,Asia
+2427,Product C,2,60,2023-11-04,Europe
+2428,Product A,2,33,2023-06-12,Europe
+2429,Product A,1,23,2023-04-07,Europe
+2430,Product C,2,78,2023-11-03,South America
+2431,Product D,1,27,2023-12-05,Europe
+2432,Product D,2,51,2023-02-24,South America
+2433,Product B,2,66,2023-11-29,South America
+2434,Product C,2,92,2023-05-07,North America
+2435,Product B,1,21,2023-07-12,North America
+2436,Product D,4,91,2023-08-31,Europe
+2437,Product B,2,26,2023-12-15,Asia
+2438,Product C,1,39,2023-03-29,Europe
+2439,Product C,1,97,2023-12-02,North America
+2440,Product C,2,84,2023-08-03,Europe
+2441,Product A,2,32,2023-04-02,North America
+2442,Product B,4,90,2023-10-30,Europe
+2443,Product D,1,10,2023-08-23,Asia
+2444,Product D,1,88,2023-07-03,Europe
+2445,Product D,3,41,2023-02-07,Asia
+2446,Product A,1,18,2023-05-19,Asia
+2447,Product A,4,24,2023-07-14,Europe
+2448,Product C,3,37,2023-01-15,Asia
+2449,Product D,3,33,2023-09-14,Asia
+2450,Product A,3,69,2023-05-15,North America
+2451,Product C,2,44,2023-01-01,North America
+2452,Product D,2,95,2023-02-18,Asia
+2453,Product B,1,36,2023-04-06,South America
+2454,Product C,3,92,2023-07-20,Europe
+2455,Product A,4,85,2023-01-26,Asia
+2456,Product A,2,29,2023-12-09,Europe
+2457,Product C,4,74,2023-08-23,North America
+2458,Product C,4,94,2023-12-15,Europe
+2459,Product A,2,58,2023-09-01,Asia
+2460,Product B,2,10,2023-12-24,Asia
+2461,Product D,2,19,2023-11-23,Asia
+2462,Product B,2,56,2023-12-17,Asia
+2463,Product C,3,68,2023-02-20,South America
+2464,Product B,3,71,2023-03-22,South America
+2465,Product A,3,95,2023-02-05,South America
+2466,Product C,3,27,2023-03-08,Asia
+2467,Product D,1,55,2023-05-09,South America
+2468,Product A,3,41,2023-06-04,Europe
+2469,Product A,2,36,2023-09-02,Asia
+2470,Product D,4,27,2023-04-21,North America
+2471,Product D,3,48,2023-06-17,Asia
+2472,Product B,1,58,2023-05-22,Europe
+2473,Product C,2,91,2023-12-22,South America
+2474,Product D,4,53,2023-07-16,Asia
+2475,Product D,4,81,2023-04-19,South America
+2476,Product C,3,63,2023-03-20,Asia
+2477,Product D,4,43,2023-06-10,Europe
+2478,Product D,3,80,2023-01-19,Asia
+2479,Product B,3,45,2023-05-07,South America
+2480,Product A,2,27,2023-07-24,South America
+2481,Product A,2,47,2023-01-29,Europe
+2482,Product A,1,68,2023-07-26,Asia
+2483,Product A,2,18,2023-10-07,North America
+2484,Product D,2,82,2023-05-31,Asia
+2485,Product C,3,81,2023-08-28,Europe
+2486,Product C,2,60,2023-09-23,North America
+2487,Product B,3,44,2023-07-01,Europe
+2488,Product B,3,91,2023-04-15,Asia
+2489,Product D,2,14,2023-08-24,North America
+2490,Product C,1,23,2023-06-22,Europe
+2491,Product C,1,39,2023-06-07,South America
+2492,Product A,4,13,2023-06-21,North America
+2493,Product D,4,48,2023-11-07,North America
+2494,Product D,2,93,2023-06-06,Europe
+2495,Product A,1,73,2023-09-15,South America
+2496,Product D,3,34,2023-06-13,North America
+2497,Product D,4,37,2023-05-27,Europe
+2498,Product B,3,85,2023-06-03,North America
+2499,Product C,4,75,2023-02-07,North America
+2500,Product D,2,87,2023-05-11,North America
+2501,Product B,1,31,2023-12-24,South America
+2502,Product C,4,40,2023-09-12,Asia
+2503,Product A,1,32,2023-07-27,Asia
+2504,Product B,3,57,2023-04-05,South America
+2505,Product B,2,29,2023-12-14,South America
+2506,Product C,1,47,2023-11-23,Europe
+2507,Product A,2,64,2023-06-20,North America
+2508,Product B,1,77,2023-09-07,South America
+2509,Product D,3,88,2023-07-09,Europe
+2510,Product D,3,97,2023-07-18,Asia
+2511,Product D,2,98,2023-08-09,Asia
+2512,Product A,3,10,2023-01-24,Asia
+2513,Product B,4,16,2023-09-01,Asia
+2514,Product D,1,66,2023-11-20,Europe
+2515,Product A,3,21,2023-05-08,North America
+2516,Product D,4,14,2023-04-03,Europe
+2517,Product C,2,59,2023-10-27,North America
+2518,Product B,4,51,2023-05-13,Asia
+2519,Product B,2,21,2023-02-24,South America
+2520,Product A,2,27,2023-06-07,South America
+2521,Product A,1,75,2023-01-29,South America
+2522,Product B,1,83,2023-07-30,North America
+2523,Product D,4,88,2023-06-03,Asia
+2524,Product D,1,26,2023-10-20,Europe
+2525,Product C,1,77,2023-08-10,South America
+2526,Product D,1,80,2023-04-25,North America
+2527,Product A,4,71,2023-06-07,South America
+2528,Product A,3,50,2023-09-16,Europe
+2529,Product D,1,43,2023-09-08,Asia
+2530,Product A,1,79,2023-05-02,Europe
+2531,Product B,4,54,2023-10-26,Asia
+2532,Product B,3,67,2023-09-20,Asia
+2533,Product D,1,60,2023-02-18,Asia
+2534,Product B,2,43,2023-11-25,South America
+2535,Product B,4,53,2023-10-24,Europe
+2536,Product C,1,24,2023-12-28,South America
+2537,Product C,1,87,2023-03-18,Europe
+2538,Product B,2,79,2023-05-07,North America
+2539,Product D,2,59,2023-07-16,North America
+2540,Product C,4,41,2023-08-09,Europe
+2541,Product A,4,76,2023-04-01,Europe
+2542,Product A,2,12,2023-01-08,Europe
+2543,Product A,4,95,2023-02-01,Europe
+2544,Product D,2,95,2023-11-16,Asia
+2545,Product B,1,83,2023-09-26,South America
+2546,Product A,2,60,2023-07-10,Asia
+2547,Product D,2,76,2023-12-15,South America
+2548,Product C,3,85,2023-06-12,South America
+2549,Product B,2,57,2023-03-02,South America
+2550,Product C,2,26,2023-09-21,Asia
+2551,Product D,3,16,2023-10-12,Europe
+2552,Product A,4,22,2023-04-05,Asia
+2553,Product A,3,75,2023-02-10,Asia
+2554,Product D,1,13,2023-05-29,South America
+2555,Product A,3,19,2023-07-23,North America
+2556,Product B,1,97,2023-09-24,North America
+2557,Product D,4,26,2023-01-02,Asia
+2558,Product C,3,61,2023-06-27,South America
+2559,Product D,3,15,2023-07-13,Asia
+2560,Product B,4,92,2023-12-02,Asia
+2561,Product B,1,78,2023-07-15,Europe
+2562,Product D,3,83,2023-12-09,South America
+2563,Product D,1,18,2023-09-06,North America
+2564,Product A,3,86,2023-07-31,North America
+2565,Product B,2,92,2023-06-02,North America
+2566,Product D,3,30,2023-06-07,Asia
+2567,Product D,4,33,2023-12-28,South America
+2568,Product B,4,13,2023-05-19,Europe
+2569,Product D,1,33,2023-08-09,North America
+2570,Product A,3,68,2023-09-30,South America
+2571,Product B,1,12,2023-06-03,North America
+2572,Product A,1,77,2023-09-06,Europe
+2573,Product A,2,49,2023-10-06,South America
+2574,Product A,2,57,2023-10-31,Asia
+2575,Product A,4,63,2023-10-03,Asia
+2576,Product B,1,44,2023-01-02,North America
+2577,Product A,4,65,2023-03-29,North America
+2578,Product A,3,98,2023-10-14,South America
+2579,Product D,1,49,2023-05-10,Europe
+2580,Product B,1,86,2023-03-19,North America
+2581,Product B,3,77,2023-09-17,South America
+2582,Product C,3,55,2023-08-29,Europe
+2583,Product B,4,87,2023-05-21,North America
+2584,Product B,4,22,2023-08-16,North America
+2585,Product C,3,36,2023-06-12,South America
+2586,Product B,4,15,2023-08-24,North America
+2587,Product B,3,26,2023-05-08,Asia
+2588,Product B,1,45,2023-07-19,Europe
+2589,Product B,1,90,2023-01-31,Europe
+2590,Product C,2,11,2023-05-18,Asia
+2591,Product B,1,86,2023-01-21,South America
+2592,Product B,3,61,2023-08-22,Asia
+2593,Product C,4,75,2023-07-21,Asia
+2594,Product D,2,61,2023-10-06,Europe
+2595,Product A,4,52,2023-05-11,South America
+2596,Product D,3,99,2023-05-28,North America
+2597,Product C,1,31,2023-01-29,Asia
+2598,Product A,2,64,2023-12-27,Asia
+2599,Product C,3,76,2023-11-04,South America
+2600,Product C,2,69,2023-06-11,Asia
+2601,Product B,2,67,2023-12-23,South America
+2602,Product A,1,21,2023-12-06,North America
+2603,Product B,3,97,2023-03-02,South America
+2604,Product A,4,78,2023-05-05,North America
+2605,Product C,2,93,2023-03-12,South America
+2606,Product C,2,48,2023-11-22,Asia
+2607,Product D,4,22,2023-12-30,North America
+2608,Product A,3,50,2023-08-31,Asia
+2609,Product B,2,66,2023-09-06,North America
+2610,Product D,2,62,2023-08-09,South America
+2611,Product D,2,21,2023-01-21,South America
+2612,Product D,3,22,2023-03-23,South America
+2613,Product B,3,83,2023-12-10,Europe
+2614,Product D,4,66,2023-01-10,Europe
+2615,Product B,3,49,2023-01-12,North America
+2616,Product D,3,89,2023-09-20,Europe
+2617,Product B,1,54,2023-05-25,South America
+2618,Product C,4,44,2023-07-11,Europe
+2619,Product C,2,12,2023-09-07,Europe
+2620,Product C,3,14,2023-04-24,Asia
+2621,Product C,2,99,2023-01-26,North America
+2622,Product C,2,20,2023-09-28,North America
+2623,Product D,1,80,2023-02-02,North America
+2624,Product D,3,65,2023-03-03,Europe
+2625,Product D,4,19,2023-08-17,South America
+2626,Product B,3,43,2023-10-30,Asia
+2627,Product B,2,76,2023-04-05,North America
+2628,Product B,4,81,2023-02-04,Europe
+2629,Product B,3,40,2023-07-12,South America
+2630,Product C,2,84,2023-03-17,Asia
+2631,Product C,2,80,2023-09-06,Asia
+2632,Product C,1,75,2023-03-24,North America
+2633,Product A,1,79,2023-01-25,North America
+2634,Product D,1,50,2023-02-26,South America
+2635,Product B,2,72,2023-02-01,Europe
+2636,Product B,3,41,2023-11-15,South America
+2637,Product C,1,29,2023-01-12,North America
+2638,Product B,3,66,2023-11-15,South America
+2639,Product B,1,59,2023-11-29,Europe
+2640,Product D,4,89,2023-04-02,Asia
+2641,Product C,4,34,2023-01-01,Asia
+2642,Product D,1,21,2023-11-22,Asia
+2643,Product A,2,80,2023-05-16,Asia
+2644,Product A,1,48,2023-07-15,North America
+2645,Product A,1,26,2023-05-13,North America
+2646,Product C,2,54,2023-03-27,Europe
+2647,Product B,4,20,2023-10-22,Europe
+2648,Product C,3,79,2023-10-06,Europe
+2649,Product C,1,32,2023-11-20,Europe
+2650,Product B,2,79,2023-06-29,South America
+2651,Product D,1,47,2023-01-04,Europe
+2652,Product A,2,11,2023-05-06,Asia
+2653,Product D,3,95,2023-06-24,Asia
+2654,Product A,3,93,2023-09-08,Asia
+2655,Product C,4,98,2023-01-21,South America
+2656,Product A,2,88,2023-04-15,Europe
+2657,Product C,2,81,2023-03-07,Asia
+2658,Product D,4,46,2023-09-20,Asia
+2659,Product C,4,58,2023-02-18,Asia
+2660,Product D,2,61,2023-01-16,Asia
+2661,Product B,4,42,2023-05-25,North America
+2662,Product B,3,31,2023-12-06,Europe
+2663,Product B,1,14,2023-09-07,Europe
+2664,Product C,3,27,2023-12-09,South America
+2665,Product B,4,47,2023-12-20,North America
+2666,Product A,2,46,2023-03-16,South America
+2667,Product D,2,73,2023-10-17,Asia
+2668,Product D,3,19,2023-10-09,South America
+2669,Product A,2,88,2023-03-07,Asia
+2670,Product C,4,51,2023-05-05,Asia
+2671,Product C,3,57,2023-11-15,Europe
+2672,Product D,2,53,2023-03-28,Europe
+2673,Product B,1,91,2023-02-10,Europe
+2674,Product C,1,96,2023-07-05,Europe
+2675,Product C,4,25,2023-12-20,Europe
+2676,Product A,2,63,2023-12-01,North America
+2677,Product A,4,44,2023-09-23,Europe
+2678,Product B,3,37,2023-09-28,South America
+2679,Product C,1,11,2023-02-11,Asia
+2680,Product C,3,22,2023-04-03,Europe
+2681,Product A,2,50,2023-07-04,North America
+2682,Product C,4,89,2023-08-03,South America
+2683,Product D,4,68,2023-01-17,South America
+2684,Product A,4,78,2023-09-22,Asia
+2685,Product B,3,62,2023-04-24,South America
+2686,Product A,1,54,2023-10-19,South America
+2687,Product C,3,29,2023-10-19,South America
+2688,Product B,3,33,2023-02-17,South America
+2689,Product A,2,70,2023-11-03,North America
+2690,Product D,2,67,2023-04-07,Asia
+2691,Product D,2,36,2023-04-05,Europe
+2692,Product A,1,35,2023-11-22,South America
+2693,Product D,1,16,2023-03-15,North America
+2694,Product D,2,51,2023-12-02,Asia
+2695,Product D,2,56,2023-03-09,Europe
+2696,Product B,1,62,2023-09-03,Asia
+2697,Product D,4,68,2023-03-18,North America
+2698,Product D,1,47,2023-07-27,North America
+2699,Product D,1,78,2023-09-11,North America
+2700,Product B,1,96,2023-08-09,South America
+2701,Product A,2,62,2023-09-19,North America
+2702,Product C,4,24,2023-11-27,Europe
+2703,Product D,1,35,2023-12-10,South America
+2704,Product A,2,57,2023-09-16,Asia
+2705,Product D,3,28,2023-11-04,Europe
+2706,Product B,3,18,2023-03-15,South America
+2707,Product A,1,73,2023-05-05,North America
+2708,Product B,3,63,2023-07-07,Asia
+2709,Product D,4,60,2023-09-11,North America
+2710,Product D,3,48,2023-11-17,Europe
+2711,Product B,3,13,2023-11-04,Europe
+2712,Product C,4,12,2023-08-23,South America
+2713,Product B,1,73,2023-09-07,Europe
+2714,Product D,1,38,2023-11-28,Asia
+2715,Product B,4,20,2023-12-11,South America
+2716,Product C,4,67,2023-03-13,Asia
+2717,Product B,4,84,2023-08-23,North America
+2718,Product C,3,36,2023-11-20,Asia
+2719,Product C,4,30,2023-06-05,Asia
+2720,Product B,2,48,2023-04-25,Europe
+2721,Product B,3,55,2023-11-09,North America
+2722,Product A,1,75,2023-08-16,Europe
+2723,Product D,1,45,2023-11-18,North America
+2724,Product C,1,84,2023-12-12,North America
+2725,Product A,3,91,2023-09-02,Asia
+2726,Product B,2,74,2023-11-02,Europe
+2727,Product D,4,72,2023-01-14,Asia
+2728,Product A,4,44,2023-01-16,Asia
+2729,Product C,1,40,2023-02-11,Asia
+2730,Product A,1,37,2023-04-20,North America
+2731,Product C,3,10,2023-10-05,Europe
+2732,Product B,2,34,2023-11-20,Europe
+2733,Product D,4,52,2023-01-19,Asia
+2734,Product D,3,93,2023-03-07,North America
+2735,Product D,4,76,2023-06-16,Europe
+2736,Product B,1,72,2023-03-14,South America
+2737,Product C,4,60,2023-11-06,Europe
+2738,Product B,2,11,2023-04-22,Asia
+2739,Product D,2,91,2023-10-01,South America
+2740,Product B,1,73,2023-03-26,North America
+2741,Product B,2,83,2023-05-19,South America
+2742,Product B,2,78,2023-02-08,South America
+2743,Product C,3,18,2023-04-15,Asia
+2744,Product A,4,11,2023-11-20,Europe
+2745,Product A,1,43,2023-10-08,North America
+2746,Product B,1,69,2023-05-03,South America
+2747,Product A,1,70,2023-08-06,Asia
+2748,Product A,1,40,2023-03-02,Europe
+2749,Product B,1,19,2023-04-10,South America
+2750,Product B,2,85,2023-11-03,Asia
+2751,Product D,3,45,2023-12-20,Asia
+2752,Product A,1,94,2023-07-23,Asia
+2753,Product C,3,58,2023-09-15,North America
+2754,Product B,3,79,2023-01-05,Europe
+2755,Product D,2,58,2023-07-16,South America
+2756,Product C,1,12,2023-06-29,Europe
+2757,Product A,2,83,2023-12-08,Europe
+2758,Product D,1,14,2023-05-13,South America
+2759,Product B,2,99,2023-11-20,Europe
+2760,Product C,3,70,2023-09-10,North America
+2761,Product B,1,94,2023-09-22,South America
+2762,Product A,4,99,2023-04-03,South America
+2763,Product C,3,35,2023-05-30,Asia
+2764,Product A,4,81,2023-05-18,Europe
+2765,Product A,3,14,2023-07-27,South America
+2766,Product D,2,24,2023-05-05,South America
+2767,Product B,1,25,2023-08-22,North America
+2768,Product C,3,10,2023-03-02,Asia
+2769,Product A,2,25,2023-11-03,South America
+2770,Product A,1,46,2023-09-23,North America
+2771,Product C,1,12,2023-05-14,South America
+2772,Product A,3,61,2023-11-14,South America
+2773,Product D,1,56,2023-04-23,South America
+2774,Product D,3,22,2023-07-10,North America
+2775,Product D,1,89,2023-07-06,Europe
+2776,Product D,4,64,2023-11-15,South America
+2777,Product A,2,30,2023-03-30,South America
+2778,Product C,4,75,2023-07-06,Europe
+2779,Product C,3,63,2023-11-03,South America
+2780,Product C,4,36,2023-05-12,Asia
+2781,Product C,3,47,2023-12-26,South America
+2782,Product B,1,99,2023-05-03,Asia
+2783,Product C,1,67,2023-02-17,Europe
+2784,Product B,3,71,2023-10-15,North America
+2785,Product B,4,55,2023-06-28,Europe
+2786,Product D,1,98,2023-06-29,South America
+2787,Product B,2,20,2023-04-09,Asia
+2788,Product A,1,81,2023-11-26,North America
+2789,Product B,2,17,2023-02-03,South America
+2790,Product D,4,80,2023-03-11,North America
+2791,Product B,2,73,2023-06-20,North America
+2792,Product A,2,30,2023-09-29,South America
+2793,Product A,2,81,2023-02-28,Europe
+2794,Product A,2,72,2023-06-30,South America
+2795,Product D,1,94,2023-01-19,South America
+2796,Product D,2,73,2023-08-14,Europe
+2797,Product C,1,29,2023-04-05,Asia
+2798,Product D,2,17,2023-10-24,South America
+2799,Product A,3,67,2023-03-22,North America
+2800,Product A,4,55,2023-06-24,South America
+2801,Product D,2,40,2023-08-10,South America
+2802,Product B,3,18,2023-04-13,North America
+2803,Product D,2,24,2023-02-23,Europe
+2804,Product D,2,35,2023-07-02,Asia
+2805,Product A,2,19,2023-12-17,Asia
+2806,Product C,3,38,2023-11-14,North America
+2807,Product A,4,89,2023-12-21,Europe
+2808,Product C,3,45,2023-12-15,South America
+2809,Product A,4,93,2023-11-17,South America
+2810,Product D,2,46,2023-03-09,South America
+2811,Product A,1,95,2023-01-28,South America
+2812,Product A,2,80,2023-10-01,South America
+2813,Product A,4,32,2023-10-09,North America
+2814,Product D,3,50,2023-12-26,South America
+2815,Product D,2,89,2023-11-07,South America
+2816,Product D,3,37,2023-04-29,Europe
+2817,Product D,3,57,2023-05-14,South America
+2818,Product C,3,47,2023-05-09,Asia
+2819,Product C,2,40,2023-01-08,North America
+2820,Product B,3,23,2023-02-20,North America
+2821,Product D,3,82,2023-12-07,North America
+2822,Product C,2,97,2023-10-08,Asia
+2823,Product A,3,86,2023-06-24,South America
+2824,Product D,2,99,2023-07-02,North America
+2825,Product B,4,38,2023-07-11,Asia
+2826,Product B,4,60,2023-09-06,Europe
+2827,Product B,4,58,2023-08-23,South America
+2828,Product A,3,52,2023-03-24,Asia
+2829,Product C,1,81,2023-04-03,South America
+2830,Product A,1,96,2023-11-08,Europe
+2831,Product D,3,14,2023-09-25,Asia
+2832,Product B,1,51,2023-04-30,South America
+2833,Product A,2,16,2023-03-12,Asia
+2834,Product A,1,51,2023-01-17,North America
+2835,Product C,3,45,2023-09-10,South America
+2836,Product C,3,36,2023-05-02,Asia
+2837,Product B,2,67,2023-01-10,North America
+2838,Product A,4,55,2023-10-14,Europe
+2839,Product A,3,75,2023-11-12,South America
+2840,Product C,2,34,2023-11-22,South America
+2841,Product A,1,82,2023-09-30,Europe
+2842,Product A,1,36,2023-11-02,North America
+2843,Product A,2,10,2023-10-20,Europe
+2844,Product C,2,96,2023-07-29,South America
+2845,Product B,3,83,2023-08-06,Asia
+2846,Product D,1,51,2023-08-29,North America
+2847,Product B,2,61,2023-07-19,North America
+2848,Product D,1,34,2023-08-04,North America
+2849,Product A,2,63,2023-07-24,Europe
+2850,Product B,1,76,2023-08-04,Europe
+2851,Product D,4,15,2023-03-21,Asia
+2852,Product C,3,67,2023-09-24,Asia
+2853,Product C,1,79,2023-02-04,North America
+2854,Product B,4,62,2023-10-16,Asia
+2855,Product B,1,75,2023-01-18,Europe
+2856,Product A,1,67,2023-06-14,Asia
+2857,Product B,4,91,2023-01-13,Europe
+2858,Product A,1,96,2023-07-21,Asia
+2859,Product A,1,11,2023-08-17,South America
+2860,Product C,3,85,2023-12-12,Europe
+2861,Product C,4,31,2023-01-01,South America
+2862,Product D,4,46,2023-11-15,Europe
+2863,Product C,2,29,2023-08-05,Asia
+2864,Product C,1,33,2023-02-03,South America
+2865,Product B,3,93,2023-12-25,Asia
+2866,Product C,1,74,2023-09-23,Europe
+2867,Product D,1,74,2023-05-08,South America
+2868,Product B,2,90,2023-07-31,North America
+2869,Product D,1,10,2023-09-20,Asia
+2870,Product C,3,12,2023-11-08,Europe
+2871,Product D,3,55,2023-03-21,South America
+2872,Product B,2,64,2023-06-14,Asia
+2873,Product A,1,84,2023-09-09,South America
+2874,Product D,3,97,2023-01-12,Asia
+2875,Product D,1,95,2023-10-31,Asia
+2876,Product B,1,73,2023-07-31,Asia
+2877,Product B,1,54,2023-10-09,South America
+2878,Product D,2,35,2023-04-22,South America
+2879,Product C,1,86,2023-07-30,Asia
+2880,Product D,3,74,2023-08-27,North America
+2881,Product B,1,33,2023-09-25,North America
+2882,Product A,3,83,2023-10-25,North America
+2883,Product A,1,44,2023-11-13,Europe
+2884,Product C,3,33,2023-02-27,North America
+2885,Product D,3,37,2023-02-03,South America
+2886,Product A,1,89,2023-09-20,North America
+2887,Product D,1,25,2023-12-31,South America
+2888,Product B,3,68,2023-02-04,Europe
+2889,Product A,4,90,2023-09-28,South America
+2890,Product C,2,63,2023-08-15,South America
+2891,Product B,4,88,2023-01-25,South America
+2892,Product C,4,25,2023-08-22,North America
+2893,Product B,1,24,2023-02-28,Asia
+2894,Product A,2,20,2023-09-08,South America
+2895,Product C,4,74,2023-12-01,North America
+2896,Product C,1,88,2023-03-27,North America
+2897,Product B,4,99,2023-09-08,North America
+2898,Product C,4,77,2023-06-29,Asia
+2899,Product B,1,52,2023-07-26,Asia
+2900,Product B,1,78,2023-12-10,Asia
+2901,Product B,1,22,2023-05-29,Asia
+2902,Product B,2,19,2023-03-12,Europe
+2903,Product A,4,84,2023-05-01,Asia
+2904,Product B,1,91,2023-09-10,Asia
+2905,Product D,3,50,2023-04-03,Asia
+2906,Product C,4,59,2023-09-13,South America
+2907,Product D,3,96,2023-09-11,South America
+2908,Product A,2,80,2023-12-18,Asia
+2909,Product D,1,68,2023-10-15,Europe
+2910,Product C,3,48,2023-11-05,South America
+2911,Product D,2,12,2023-02-28,North America
+2912,Product A,1,85,2023-03-10,South America
+2913,Product B,3,16,2023-03-27,North America
+2914,Product D,3,58,2023-10-01,South America
+2915,Product A,2,35,2023-08-15,Asia
+2916,Product A,1,42,2023-03-22,South America
+2917,Product C,1,57,2023-04-24,Asia
+2918,Product C,3,88,2023-07-03,Asia
+2919,Product D,3,11,2023-10-07,South America
+2920,Product B,3,80,2023-11-18,North America
+2921,Product A,1,41,2023-11-14,North America
+2922,Product D,2,13,2023-02-23,South America
+2923,Product A,2,29,2023-07-16,Asia
+2924,Product A,1,45,2023-10-20,North America
+2925,Product B,4,41,2023-10-20,Europe
+2926,Product B,2,37,2023-10-18,Asia
+2927,Product D,3,86,2023-06-29,South America
+2928,Product B,4,10,2023-08-10,Asia
+2929,Product B,4,69,2023-10-01,Europe
+2930,Product D,2,65,2023-09-01,Europe
+2931,Product B,4,44,2023-06-03,North America
+2932,Product C,4,39,2023-10-31,Europe
+2933,Product A,2,63,2023-09-30,Asia
+2934,Product A,2,45,2023-05-15,North America
+2935,Product A,4,64,2023-11-09,Europe
+2936,Product A,3,98,2023-01-08,North America
+2937,Product D,1,89,2023-05-08,North America
+2938,Product A,4,67,2023-02-25,South America
+2939,Product A,4,92,2023-05-06,North America
+2940,Product A,3,74,2023-06-08,North America
+2941,Product A,4,78,2023-02-28,Europe
+2942,Product C,4,60,2023-02-27,Asia
+2943,Product A,1,31,2023-05-20,Asia
+2944,Product C,1,97,2023-06-25,Europe
+2945,Product D,1,62,2023-04-18,Asia
+2946,Product B,2,45,2023-07-30,North America
+2947,Product A,2,77,2023-03-15,South America
+2948,Product B,1,45,2023-06-16,North America
+2949,Product B,1,61,2023-12-23,North America
+2950,Product D,2,62,2023-10-31,South America
+2951,Product B,3,91,2023-08-21,Europe
+2952,Product C,4,59,2023-11-23,North America
+2953,Product B,4,89,2023-07-01,North America
+2954,Product B,1,50,2023-05-02,Europe
+2955,Product B,3,27,2023-11-30,North America
+2956,Product A,2,31,2023-07-22,North America
+2957,Product A,1,75,2023-01-29,Asia
+2958,Product C,3,30,2023-07-21,Europe
+2959,Product C,3,53,2023-04-03,North America
+2960,Product A,3,56,2023-11-25,North America
+2961,Product C,2,48,2023-12-22,South America
+2962,Product A,2,38,2023-06-25,South America
+2963,Product D,4,63,2023-11-26,South America
+2964,Product B,4,99,2023-07-30,North America
+2965,Product B,3,94,2023-07-03,North America
+2966,Product C,3,26,2023-04-05,South America
+2967,Product A,2,89,2023-09-30,Asia
+2968,Product A,4,69,2023-05-17,Asia
+2969,Product C,3,40,2023-08-25,Asia
+2970,Product A,4,82,2023-12-19,Asia
+2971,Product D,4,87,2023-09-22,Europe
+2972,Product B,3,58,2023-05-15,South America
+2973,Product C,2,11,2023-05-24,North America
+2974,Product C,3,57,2023-01-19,South America
+2975,Product A,3,23,2023-08-19,Asia
+2976,Product C,4,68,2023-05-14,North America
+2977,Product D,3,67,2023-04-24,Europe
+2978,Product A,2,67,2023-05-19,South America
+2979,Product A,3,60,2023-05-05,North America
+2980,Product A,2,93,2023-07-23,North America
+2981,Product A,2,11,2023-03-02,Asia
+2982,Product D,4,50,2023-09-07,Asia
+2983,Product A,1,92,2023-10-25,South America
+2984,Product C,1,91,2023-01-13,Europe
+2985,Product D,4,25,2023-09-12,North America
+2986,Product B,3,13,2023-03-26,Asia
+2987,Product B,4,21,2023-01-20,South America
+2988,Product C,2,38,2023-02-19,Asia
+2989,Product C,1,16,2023-06-13,South America
+2990,Product D,4,23,2023-04-02,Asia
+2991,Product B,3,21,2023-03-29,Europe
+2992,Product B,4,14,2023-03-10,North America
+2993,Product B,1,90,2023-02-06,Asia
+2994,Product B,4,41,2023-09-10,North America
+2995,Product B,4,83,2023-09-09,South America
+2996,Product A,1,52,2023-05-20,Europe
+2997,Product C,2,90,2023-12-21,North America
+2998,Product A,2,78,2023-06-17,Asia
+2999,Product B,1,54,2023-02-23,North America
+3000,Product D,4,18,2023-06-27,North America
+3001,Product D,1,58,2023-10-24,South America
+3002,Product B,2,42,2023-10-28,Europe
+3003,Product B,3,27,2023-12-25,Europe
+3004,Product D,4,18,2023-04-16,North America
+3005,Product A,2,71,2023-05-17,North America
+3006,Product A,4,66,2023-07-09,South America
+3007,Product B,1,38,2023-05-08,North America
+3008,Product A,3,87,2023-12-08,South America
+3009,Product D,1,34,2023-02-16,Europe
+3010,Product A,3,24,2023-01-05,Europe
+3011,Product B,4,15,2023-09-14,South America
+3012,Product D,4,51,2023-10-27,North America
+3013,Product A,1,38,2023-05-30,Europe
+3014,Product C,3,88,2023-10-21,Asia
+3015,Product D,3,13,2023-08-31,South America
+3016,Product D,4,91,2023-10-02,Europe
+3017,Product C,1,66,2023-07-27,Europe
+3018,Product C,3,58,2023-04-25,Europe
+3019,Product D,4,53,2023-07-14,Asia
+3020,Product C,2,89,2023-12-09,Asia
+3021,Product B,1,84,2023-06-19,Asia
+3022,Product B,2,23,2023-03-23,North America
+3023,Product B,1,12,2023-06-03,South America
+3024,Product D,4,71,2023-05-21,North America
+3025,Product C,3,73,2023-11-10,Asia
+3026,Product C,3,54,2023-05-26,South America
+3027,Product A,3,91,2023-11-19,North America
+3028,Product A,1,67,2023-05-02,North America
+3029,Product C,4,29,2023-09-09,North America
+3030,Product C,2,67,2023-12-09,Asia
+3031,Product C,4,98,2023-11-07,Europe
+3032,Product D,2,66,2023-03-30,South America
+3033,Product C,1,86,2023-02-27,Asia
+3034,Product A,1,77,2023-03-04,South America
+3035,Product D,2,87,2023-12-13,Asia
+3036,Product C,2,61,2023-11-04,North America
+3037,Product A,2,46,2023-10-07,North America
+3038,Product D,4,17,2023-03-13,Europe
+3039,Product C,2,53,2023-01-09,Europe
+3040,Product C,1,14,2023-04-04,South America
+3041,Product C,1,78,2023-12-05,Europe
+3042,Product D,3,40,2023-12-02,Europe
+3043,Product A,2,54,2023-06-01,South America
+3044,Product A,4,18,2023-12-22,Asia
+3045,Product B,4,41,2023-02-09,Europe
+3046,Product C,4,42,2023-12-25,Asia
+3047,Product B,3,76,2023-03-03,North America
+3048,Product B,1,39,2023-09-11,Europe
+3049,Product A,4,85,2023-03-10,North America
+3050,Product D,1,38,2023-09-02,North America
+3051,Product D,3,12,2023-12-31,Asia
+3052,Product A,2,99,2023-06-19,South America
+3053,Product D,2,66,2023-06-27,Europe
+3054,Product B,2,39,2023-07-08,Asia
+3055,Product C,4,18,2023-09-17,South America
+3056,Product A,2,35,2023-03-13,North America
+3057,Product C,4,11,2023-01-17,Europe
+3058,Product D,3,71,2023-12-07,North America
+3059,Product C,3,12,2023-02-26,North America
+3060,Product D,4,55,2023-08-06,Europe
+3061,Product D,1,77,2023-04-17,South America
+3062,Product B,2,34,2023-10-31,South America
+3063,Product D,2,60,2023-06-22,Europe
+3064,Product B,2,22,2023-08-07,Europe
+3065,Product B,4,53,2023-09-04,Asia
+3066,Product B,3,44,2023-08-06,Asia
+3067,Product A,2,64,2023-01-31,North America
+3068,Product A,3,96,2023-02-16,Europe
+3069,Product D,2,18,2023-05-14,South America
+3070,Product B,2,11,2023-04-18,North America
+3071,Product A,4,70,2023-03-13,North America
+3072,Product B,1,50,2023-11-23,North America
+3073,Product C,4,53,2023-04-18,North America
+3074,Product C,2,73,2023-11-05,South America
+3075,Product C,2,40,2023-09-29,North America
+3076,Product D,1,56,2023-06-20,Europe
+3077,Product B,3,11,2023-04-26,Asia
+3078,Product C,3,91,2023-11-25,South America
+3079,Product A,2,86,2023-03-15,Europe
+3080,Product C,3,78,2023-09-13,Europe
+3081,Product C,2,67,2023-03-22,Europe
+3082,Product C,1,53,2023-09-25,Asia
+3083,Product D,1,83,2023-05-08,Asia
+3084,Product A,2,65,2023-11-22,Asia
+3085,Product B,1,52,2023-08-23,Europe
+3086,Product A,4,98,2023-02-10,Asia
+3087,Product B,4,43,2023-06-30,North America
+3088,Product D,1,39,2023-06-06,Asia
+3089,Product D,2,80,2023-02-28,South America
+3090,Product D,2,79,2023-12-11,Europe
+3091,Product D,1,64,2023-09-06,Europe
+3092,Product B,3,76,2023-07-11,North America
+3093,Product C,4,22,2023-01-24,Asia
+3094,Product B,3,12,2023-03-21,Asia
+3095,Product A,2,35,2023-05-14,South America
+3096,Product D,2,66,2023-08-01,North America
+3097,Product D,3,33,2023-12-14,South America
+3098,Product A,1,62,2023-06-15,South America
+3099,Product B,3,79,2023-12-14,Europe
+3100,Product C,3,52,2023-12-03,Europe
+3101,Product C,4,69,2023-03-12,Asia
+3102,Product A,4,67,2023-08-02,Asia
+3103,Product C,3,58,2023-03-06,South America
+3104,Product B,3,51,2023-08-09,Asia
+3105,Product B,2,85,2023-11-04,South America
+3106,Product A,4,75,2023-10-13,Asia
+3107,Product B,4,20,2023-07-04,Asia
+3108,Product D,2,99,2023-07-26,Europe
+3109,Product A,1,27,2023-04-09,Europe
+3110,Product B,4,94,2023-08-30,Europe
+3111,Product A,4,61,2023-06-07,Europe
+3112,Product C,1,55,2023-04-08,North America
+3113,Product B,4,53,2023-02-11,Europe
+3114,Product D,4,31,2023-05-19,North America
+3115,Product B,1,62,2023-10-10,Europe
+3116,Product A,1,68,2023-08-15,Asia
+3117,Product A,3,39,2023-03-13,South America
+3118,Product B,2,17,2023-08-31,Asia
+3119,Product D,2,66,2023-01-18,Asia
+3120,Product D,1,82,2023-03-18,North America
+3121,Product D,1,29,2023-02-14,Europe
+3122,Product A,4,34,2023-12-09,South America
+3123,Product B,3,28,2023-05-20,South America
+3124,Product C,3,14,2023-06-26,Europe
+3125,Product A,1,84,2023-08-10,North America
+3126,Product D,4,88,2023-04-02,North America
+3127,Product B,4,81,2023-01-22,North America
+3128,Product D,2,92,2023-06-21,South America
+3129,Product C,2,96,2023-04-02,North America
+3130,Product D,4,36,2023-07-11,North America
+3131,Product D,2,49,2023-03-18,South America
+3132,Product C,1,35,2023-10-08,South America
+3133,Product B,4,36,2023-12-30,Asia
+3134,Product A,2,71,2023-06-28,South America
+3135,Product B,3,92,2023-08-26,Europe
+3136,Product C,4,59,2023-05-15,South America
+3137,Product D,4,51,2023-12-31,South America
+3138,Product B,3,38,2023-10-07,North America
+3139,Product A,1,48,2023-01-19,Asia
+3140,Product C,3,69,2023-03-24,North America
+3141,Product B,4,50,2023-08-16,Asia
+3142,Product A,1,42,2023-09-22,North America
+3143,Product C,2,92,2023-04-22,Europe
+3144,Product A,2,92,2023-09-08,North America
+3145,Product C,2,25,2023-06-13,North America
+3146,Product D,4,32,2023-12-24,Europe
+3147,Product B,3,16,2023-06-17,Europe
+3148,Product A,1,35,2023-08-09,South America
+3149,Product C,2,21,2023-10-31,North America
+3150,Product A,1,81,2023-07-10,Europe
+3151,Product A,4,14,2023-11-21,Europe
+3152,Product B,2,78,2023-06-19,South America
+3153,Product D,4,58,2023-02-14,Asia
+3154,Product A,3,35,2023-01-14,Europe
+3155,Product C,4,14,2023-08-19,Europe
+3156,Product C,4,31,2023-06-06,North America
+3157,Product D,3,88,2023-05-14,South America
+3158,Product C,1,22,2023-02-06,North America
+3159,Product D,3,37,2023-02-22,Asia
+3160,Product C,3,42,2023-01-18,South America
+3161,Product B,4,32,2023-02-07,North America
+3162,Product A,1,27,2023-07-06,Europe
+3163,Product B,2,39,2023-07-15,Europe
+3164,Product A,3,35,2023-08-31,South America
+3165,Product A,1,25,2023-10-27,Europe
+3166,Product A,3,86,2023-10-30,North America
+3167,Product B,3,48,2023-02-04,South America
+3168,Product A,3,42,2023-08-03,Europe
+3169,Product B,3,35,2023-08-07,Europe
+3170,Product D,4,57,2023-11-12,Asia
+3171,Product C,1,74,2023-03-31,Asia
+3172,Product C,1,47,2023-11-04,South America
+3173,Product A,1,11,2023-09-09,Asia
+3174,Product B,3,15,2023-01-08,North America
+3175,Product C,4,55,2023-09-13,Europe
+3176,Product B,3,59,2023-12-29,Europe
+3177,Product B,3,47,2023-07-27,Europe
+3178,Product A,1,97,2023-05-11,South America
+3179,Product C,3,27,2023-08-12,South America
+3180,Product A,2,36,2023-07-16,Asia
+3181,Product A,3,50,2023-05-22,Europe
+3182,Product C,2,81,2023-09-09,Europe
+3183,Product C,3,83,2023-04-06,Europe
+3184,Product D,4,26,2023-01-26,Europe
+3185,Product D,4,71,2023-04-21,Europe
+3186,Product B,1,38,2023-05-03,North America
+3187,Product C,3,67,2023-07-05,Europe
+3188,Product D,2,79,2023-06-17,North America
+3189,Product B,2,87,2023-02-20,Europe
+3190,Product B,3,31,2023-01-05,South America
+3191,Product B,2,15,2023-03-18,South America
+3192,Product D,4,35,2023-06-09,North America
+3193,Product C,2,48,2023-07-27,Europe
+3194,Product A,1,21,2023-09-14,South America
+3195,Product B,4,23,2023-07-24,South America
+3196,Product D,4,31,2023-09-12,Europe
+3197,Product D,4,60,2023-01-11,Europe
+3198,Product A,3,32,2023-01-08,South America
+3199,Product A,3,57,2023-02-01,Europe
+3200,Product D,4,80,2023-01-28,Asia
+3201,Product C,3,59,2023-07-25,Europe
+3202,Product A,2,98,2023-08-16,South America
+3203,Product D,3,22,2023-05-08,South America
+3204,Product A,3,94,2023-09-12,North America
+3205,Product C,4,19,2023-07-31,Asia
+3206,Product B,1,64,2023-08-27,South America
+3207,Product A,1,18,2023-07-26,Asia
+3208,Product C,1,88,2023-11-14,Europe
+3209,Product D,2,61,2023-10-10,South America
+3210,Product A,3,11,2023-09-02,North America
+3211,Product A,1,34,2023-02-14,South America
+3212,Product D,4,22,2023-04-15,North America
+3213,Product B,1,60,2023-12-14,Asia
+3214,Product D,1,67,2023-10-08,North America
+3215,Product A,3,43,2023-08-22,Europe
+3216,Product D,3,44,2023-07-08,Europe
+3217,Product C,3,12,2023-02-13,Europe
+3218,Product D,2,68,2023-08-13,South America
+3219,Product A,2,79,2023-05-22,Europe
+3220,Product D,1,57,2023-05-16,Europe
+3221,Product B,3,73,2023-06-25,South America
+3222,Product D,1,28,2023-05-22,Asia
+3223,Product B,4,76,2023-03-21,Europe
+3224,Product C,4,91,2023-03-23,Europe
+3225,Product B,3,82,2023-05-15,South America
+3226,Product D,3,85,2023-07-26,Asia
+3227,Product A,4,14,2023-12-10,Asia
+3228,Product B,3,76,2023-06-26,Asia
+3229,Product C,2,20,2023-08-31,South America
+3230,Product B,2,77,2023-02-24,North America
+3231,Product B,3,78,2023-05-21,North America
+3232,Product B,4,10,2023-02-25,Europe
+3233,Product C,1,72,2023-01-15,Europe
+3234,Product D,3,38,2023-07-04,Europe
+3235,Product B,3,91,2023-11-10,North America
+3236,Product B,1,21,2023-03-29,South America
+3237,Product A,3,86,2023-04-07,Europe
+3238,Product C,1,50,2023-05-24,South America
+3239,Product B,4,11,2023-01-08,Europe
+3240,Product C,2,46,2023-08-03,South America
+3241,Product B,4,54,2023-06-22,South America
+3242,Product D,2,89,2023-08-11,North America
+3243,Product D,1,57,2023-02-09,South America
+3244,Product B,2,33,2023-07-01,Asia
+3245,Product D,4,31,2023-09-27,North America
+3246,Product B,2,20,2023-07-06,Europe
+3247,Product D,1,67,2023-09-02,North America
+3248,Product A,2,55,2023-11-05,Asia
+3249,Product A,3,38,2023-08-19,Asia
+3250,Product A,4,44,2023-06-04,South America
+3251,Product C,3,24,2023-06-24,Asia
+3252,Product C,1,69,2023-12-02,Asia
+3253,Product A,2,51,2023-04-25,Asia
+3254,Product C,3,52,2023-11-07,Asia
+3255,Product D,3,89,2023-10-27,Europe
+3256,Product B,2,83,2023-01-18,Europe
+3257,Product B,2,58,2023-09-29,North America
+3258,Product B,4,73,2023-01-12,South America
+3259,Product A,3,41,2023-10-28,Europe
+3260,Product C,3,73,2023-07-11,Asia
+3261,Product D,1,11,2023-08-20,South America
+3262,Product D,4,33,2023-04-03,Europe
+3263,Product A,1,96,2023-08-06,North America
+3264,Product D,3,75,2023-10-05,Asia
+3265,Product D,1,47,2023-12-19,South America
+3266,Product D,3,40,2023-10-30,Europe
+3267,Product D,3,35,2023-01-29,South America
+3268,Product C,1,38,2023-10-28,Europe
+3269,Product D,1,76,2023-03-18,North America
+3270,Product B,2,87,2023-01-09,Asia
+3271,Product A,2,34,2023-01-24,North America
+3272,Product C,2,57,2023-01-15,Asia
+3273,Product D,3,74,2023-06-13,Asia
+3274,Product C,1,62,2023-01-13,South America
+3275,Product D,4,76,2023-12-13,Europe
+3276,Product B,3,99,2023-06-21,North America
+3277,Product A,4,27,2023-12-23,North America
+3278,Product D,1,18,2023-11-23,North America
+3279,Product D,3,47,2023-07-19,South America
+3280,Product D,4,96,2023-03-17,South America
+3281,Product D,4,30,2023-06-13,South America
+3282,Product A,2,74,2023-03-02,Asia
+3283,Product A,2,30,2023-09-02,North America
+3284,Product B,2,36,2023-06-04,Asia
+3285,Product A,3,79,2023-09-14,North America
+3286,Product D,1,53,2023-09-01,North America
+3287,Product B,1,37,2023-06-11,Europe
+3288,Product B,2,54,2023-03-09,North America
+3289,Product B,2,26,2023-12-10,South America
+3290,Product D,2,49,2023-10-04,South America
+3291,Product C,4,12,2023-06-10,South America
+3292,Product D,2,85,2023-09-16,Europe
+3293,Product A,4,85,2023-11-03,Europe
+3294,Product A,1,75,2023-12-01,Asia
+3295,Product D,3,55,2023-04-05,North America
+3296,Product D,3,95,2023-09-03,North America
+3297,Product B,3,96,2023-08-09,South America
+3298,Product D,3,39,2023-05-03,South America
+3299,Product B,4,78,2023-07-06,South America
+3300,Product A,4,18,2023-09-19,South America
+3301,Product B,2,94,2023-09-30,South America
+3302,Product D,4,20,2023-03-01,South America
+3303,Product A,2,78,2023-05-05,North America
+3304,Product C,2,75,2023-12-03,Europe
+3305,Product B,3,97,2023-12-07,South America
+3306,Product A,4,40,2023-02-20,North America
+3307,Product B,4,42,2023-06-27,South America
+3308,Product A,2,48,2023-05-19,Asia
+3309,Product A,2,55,2023-11-23,Asia
+3310,Product B,1,46,2023-06-19,North America
+3311,Product C,1,69,2023-02-08,Europe
+3312,Product A,2,40,2023-03-10,Asia
+3313,Product A,1,20,2023-08-24,Asia
+3314,Product A,1,96,2023-02-17,Europe
+3315,Product C,2,11,2023-02-26,Asia
+3316,Product C,2,36,2023-10-04,South America
+3317,Product D,4,11,2023-12-04,Europe
+3318,Product B,2,30,2023-04-09,Asia
+3319,Product C,2,67,2023-01-15,Europe
+3320,Product B,3,14,2023-11-21,South America
+3321,Product D,4,61,2023-06-28,Asia
+3322,Product B,4,54,2023-11-28,North America
+3323,Product C,4,94,2023-03-03,Asia
+3324,Product B,3,29,2023-04-29,Asia
+3325,Product C,2,70,2023-02-06,South America
+3326,Product B,4,47,2023-05-14,North America
+3327,Product C,4,29,2023-01-26,North America
+3328,Product C,1,34,2023-01-08,North America
+3329,Product B,4,11,2023-01-04,South America
+3330,Product D,2,41,2023-01-21,South America
+3331,Product A,2,35,2023-05-29,South America
+3332,Product D,1,79,2023-01-25,South America
+3333,Product B,4,50,2023-05-23,South America
+3334,Product D,4,76,2023-09-02,North America
+3335,Product C,4,10,2023-02-12,Europe
+3336,Product A,3,60,2023-10-20,South America
+3337,Product B,4,14,2023-07-04,Europe
+3338,Product B,2,22,2023-02-11,Asia
+3339,Product B,2,28,2023-04-02,Asia
+3340,Product A,3,21,2023-11-13,South America
+3341,Product C,3,57,2023-11-20,Asia
+3342,Product B,4,34,2023-02-22,Europe
+3343,Product D,1,66,2023-03-25,Asia
+3344,Product B,3,44,2023-02-03,Asia
+3345,Product B,3,85,2023-03-17,Europe
+3346,Product B,4,14,2023-12-19,Asia
+3347,Product B,4,31,2023-07-16,South America
+3348,Product C,3,86,2023-10-13,Europe
+3349,Product D,1,66,2023-03-29,Europe
+3350,Product C,3,56,2023-08-23,North America
+3351,Product D,4,63,2023-08-20,North America
+3352,Product B,4,12,2023-01-07,Europe
+3353,Product A,3,62,2023-10-19,Europe
+3354,Product C,1,93,2023-02-07,North America
+3355,Product A,3,40,2023-02-21,South America
+3356,Product C,3,78,2023-05-23,Asia
+3357,Product B,4,97,2023-08-09,Asia
+3358,Product C,1,42,2023-08-28,Asia
+3359,Product B,2,81,2023-05-23,Europe
+3360,Product C,1,97,2023-12-15,South America
+3361,Product B,3,59,2023-12-29,North America
+3362,Product B,3,93,2023-02-18,South America
+3363,Product D,3,25,2023-10-04,South America
+3364,Product B,1,85,2023-09-28,Asia
+3365,Product D,4,86,2023-01-14,North America
+3366,Product B,3,48,2023-10-25,South America
+3367,Product A,3,98,2023-01-15,North America
+3368,Product B,1,55,2023-08-22,Europe
+3369,Product A,2,97,2023-03-04,Asia
+3370,Product A,2,56,2023-07-15,North America
+3371,Product B,4,53,2023-01-27,Europe
+3372,Product A,4,18,2023-04-03,Europe
+3373,Product D,3,96,2023-04-15,Europe
+3374,Product C,1,59,2023-11-05,South America
+3375,Product B,3,86,2023-02-21,South America
+3376,Product A,4,69,2023-11-15,Asia
+3377,Product B,1,24,2023-06-30,Asia
+3378,Product D,1,45,2023-02-26,Europe
+3379,Product B,4,72,2023-04-30,Asia
+3380,Product B,2,78,2023-11-04,South America
+3381,Product A,2,95,2023-12-29,Asia
+3382,Product D,1,89,2023-02-12,North America
+3383,Product C,3,50,2023-05-15,South America
+3384,Product C,2,83,2023-09-17,Europe
+3385,Product A,3,33,2023-07-16,Europe
+3386,Product B,2,91,2023-05-13,Asia
+3387,Product A,2,58,2023-09-12,South America
+3388,Product A,3,27,2023-08-08,Europe
+3389,Product A,4,16,2023-12-02,Europe
+3390,Product B,2,13,2023-02-10,South America
+3391,Product D,2,99,2023-09-12,South America
+3392,Product A,3,78,2023-01-02,Europe
+3393,Product B,4,69,2023-07-14,Asia
+3394,Product D,2,64,2023-08-30,Asia
+3395,Product A,2,25,2023-05-29,Asia
+3396,Product C,4,99,2023-07-17,North America
+3397,Product D,2,91,2023-10-26,South America
+3398,Product A,4,38,2023-09-02,Europe
+3399,Product D,4,32,2023-12-04,North America
+3400,Product D,3,23,2023-04-18,Asia
+3401,Product D,1,88,2023-07-31,North America
+3402,Product D,4,58,2023-06-05,Europe
+3403,Product D,3,42,2023-01-26,Europe
+3404,Product D,1,34,2023-03-23,South America
+3405,Product A,2,30,2023-03-24,Asia
+3406,Product C,1,26,2023-05-11,Asia
+3407,Product B,4,32,2023-11-25,North America
+3408,Product D,4,66,2023-04-10,Asia
+3409,Product B,4,90,2023-09-13,North America
+3410,Product A,4,67,2023-02-18,Europe
+3411,Product D,4,23,2023-03-04,Europe
+3412,Product C,3,29,2023-11-07,Europe
+3413,Product B,4,39,2023-10-17,Europe
+3414,Product D,3,28,2023-04-15,Europe
+3415,Product A,2,62,2023-04-15,North America
+3416,Product C,4,65,2023-11-21,Europe
+3417,Product B,4,86,2023-01-15,North America
+3418,Product B,1,91,2023-06-24,Europe
+3419,Product D,2,32,2023-09-16,North America
+3420,Product C,4,71,2023-07-30,North America
+3421,Product C,4,42,2023-09-16,North America
+3422,Product C,2,27,2023-04-12,Asia
+3423,Product C,3,82,2023-09-17,North America
+3424,Product A,4,42,2023-12-10,North America
+3425,Product C,1,41,2023-06-08,Europe
+3426,Product B,4,70,2023-02-14,North America
+3427,Product B,1,63,2023-10-28,North America
+3428,Product A,1,26,2023-09-08,South America
+3429,Product B,4,28,2023-11-27,Asia
+3430,Product B,4,79,2023-06-14,South America
+3431,Product C,1,43,2023-07-12,Europe
+3432,Product B,2,93,2023-01-09,Asia
+3433,Product A,2,34,2023-03-06,Asia
+3434,Product C,4,77,2023-10-09,South America
+3435,Product D,3,83,2023-06-30,Asia
+3436,Product C,2,83,2023-10-09,South America
+3437,Product A,4,97,2023-10-06,North America
+3438,Product C,2,94,2023-01-30,South America
+3439,Product C,3,20,2023-09-23,Asia
+3440,Product A,4,25,2023-11-24,Asia
+3441,Product C,3,99,2023-08-05,Europe
+3442,Product A,4,70,2023-11-16,Europe
+3443,Product A,3,89,2023-04-15,Europe
+3444,Product D,2,16,2023-07-03,Europe
+3445,Product B,2,25,2023-11-26,Asia
+3446,Product B,3,25,2023-05-28,Europe
+3447,Product C,3,49,2023-04-15,South America
+3448,Product C,3,21,2023-02-16,North America
+3449,Product D,4,44,2023-03-28,Asia
+3450,Product D,2,30,2023-11-05,Europe
+3451,Product D,4,59,2023-05-09,Asia
+3452,Product A,2,52,2023-09-15,Europe
+3453,Product D,1,26,2023-11-10,Asia
+3454,Product D,4,41,2023-05-27,Europe
+3455,Product C,2,50,2023-03-13,North America
+3456,Product D,2,15,2023-05-20,Europe
+3457,Product A,4,97,2023-01-27,South America
+3458,Product A,4,36,2023-01-29,Asia
+3459,Product C,2,29,2023-09-28,Asia
+3460,Product D,4,34,2023-06-23,South America
+3461,Product D,3,75,2023-09-10,South America
+3462,Product A,4,18,2023-03-01,North America
+3463,Product D,4,62,2023-04-17,Asia
+3464,Product D,4,70,2023-08-08,North America
+3465,Product D,2,47,2023-09-16,Asia
+3466,Product B,3,12,2023-05-26,Asia
+3467,Product C,1,93,2023-02-21,North America
+3468,Product B,1,79,2023-03-01,Asia
+3469,Product C,3,64,2023-02-03,Asia
+3470,Product A,3,10,2023-04-06,North America
+3471,Product D,3,79,2023-03-30,Europe
+3472,Product C,2,54,2023-11-12,North America
+3473,Product B,1,56,2023-08-19,Asia
+3474,Product D,3,88,2023-10-02,South America
+3475,Product A,2,35,2023-09-03,Europe
+3476,Product C,1,23,2023-04-21,South America
+3477,Product C,4,63,2023-08-22,Europe
+3478,Product C,2,80,2023-10-05,South America
+3479,Product D,1,55,2023-06-15,Europe
+3480,Product B,2,40,2023-05-08,North America
+3481,Product B,1,97,2023-08-25,Europe
+3482,Product C,1,68,2023-10-18,Europe
+3483,Product A,4,38,2023-04-17,Europe
+3484,Product A,2,26,2023-05-08,Asia
+3485,Product B,3,23,2023-07-14,South America
+3486,Product A,4,45,2023-12-05,North America
+3487,Product B,4,67,2023-05-23,South America
+3488,Product C,1,33,2023-04-21,South America
+3489,Product B,3,72,2023-03-31,North America
+3490,Product B,2,34,2023-09-08,Asia
+3491,Product C,3,68,2023-10-07,Europe
+3492,Product A,3,41,2023-11-29,Asia
+3493,Product B,3,91,2023-08-12,Asia
+3494,Product B,3,27,2023-04-11,Europe
+3495,Product C,3,46,2023-05-12,South America
+3496,Product A,1,35,2023-01-13,Europe
+3497,Product B,1,18,2023-04-08,North America
+3498,Product C,4,73,2023-04-30,Europe
+3499,Product B,1,81,2023-10-20,South America
+3500,Product D,4,29,2023-10-31,Asia
+3501,Product C,4,63,2023-07-18,Asia
+3502,Product A,2,95,2023-01-01,Europe
+3503,Product A,3,92,2023-03-01,North America
+3504,Product A,1,39,2023-09-07,South America
+3505,Product A,2,62,2023-05-20,Asia
+3506,Product B,1,72,2023-05-29,Europe
+3507,Product B,4,20,2023-02-13,North America
+3508,Product A,1,40,2023-07-05,North America
+3509,Product A,3,58,2023-04-18,Asia
+3510,Product A,4,96,2023-02-13,Asia
+3511,Product B,4,28,2023-03-19,South America
+3512,Product A,2,21,2023-08-14,North America
+3513,Product A,3,24,2023-06-11,South America
+3514,Product D,4,40,2023-10-08,North America
+3515,Product D,3,52,2023-09-10,North America
+3516,Product A,1,46,2023-05-12,Europe
+3517,Product C,3,88,2023-05-24,Asia
+3518,Product A,4,38,2023-09-23,North America
+3519,Product D,2,35,2023-04-19,South America
+3520,Product C,4,11,2023-07-13,Asia
+3521,Product C,3,93,2023-02-04,South America
+3522,Product A,3,24,2023-10-02,Asia
+3523,Product D,4,13,2023-07-06,Asia
+3524,Product D,3,95,2023-08-31,North America
+3525,Product C,1,59,2023-09-21,Europe
+3526,Product A,4,47,2023-01-10,North America
+3527,Product B,2,32,2023-06-15,Asia
+3528,Product B,4,68,2023-01-29,North America
+3529,Product D,1,99,2023-09-28,North America
+3530,Product B,1,84,2023-03-28,Asia
+3531,Product D,1,37,2023-01-23,Asia
+3532,Product D,1,75,2023-07-29,North America
+3533,Product D,1,17,2023-02-15,North America
+3534,Product B,2,38,2023-01-28,North America
+3535,Product D,3,20,2023-01-26,South America
+3536,Product C,1,27,2023-09-23,North America
+3537,Product A,1,64,2023-06-24,South America
+3538,Product A,4,59,2023-01-04,Europe
+3539,Product D,2,23,2023-11-07,South America
+3540,Product A,2,83,2023-11-18,North America
+3541,Product B,3,18,2023-03-08,Europe
+3542,Product B,2,20,2023-05-15,South America
+3543,Product A,4,72,2023-02-24,South America
+3544,Product B,4,85,2023-01-31,Asia
+3545,Product A,3,76,2023-03-15,Europe
+3546,Product A,4,62,2023-01-19,Asia
+3547,Product A,1,48,2023-06-05,Europe
+3548,Product D,1,87,2023-12-03,South America
+3549,Product A,4,65,2023-06-05,Asia
+3550,Product D,3,37,2023-05-27,North America
+3551,Product A,2,84,2023-03-28,South America
+3552,Product A,3,48,2023-01-20,Europe
+3553,Product A,2,34,2023-09-26,Europe
+3554,Product B,4,30,2023-11-29,Asia
+3555,Product D,4,19,2023-02-12,Asia
+3556,Product D,1,52,2023-11-02,Europe
+3557,Product A,2,24,2023-01-28,South America
+3558,Product A,3,92,2023-09-17,Asia
+3559,Product B,4,57,2023-01-22,North America
+3560,Product B,3,95,2023-04-11,Europe
+3561,Product B,1,30,2023-02-08,North America
+3562,Product D,2,69,2023-10-17,Europe
+3563,Product D,2,59,2023-12-19,North America
+3564,Product D,4,32,2023-10-27,South America
+3565,Product A,2,22,2023-06-19,Europe
+3566,Product D,4,78,2023-10-23,South America
+3567,Product C,1,13,2023-12-19,Asia
+3568,Product C,2,87,2023-05-10,Europe
+3569,Product B,4,81,2023-06-05,South America
+3570,Product D,3,18,2023-03-15,North America
+3571,Product C,4,44,2023-12-08,South America
+3572,Product B,2,30,2023-03-31,Europe
+3573,Product D,1,67,2023-03-08,South America
+3574,Product A,2,27,2023-08-24,North America
+3575,Product C,2,81,2023-07-19,North America
+3576,Product A,4,90,2023-11-28,North America
+3577,Product D,3,52,2023-08-15,Asia
+3578,Product C,2,15,2023-12-14,Europe
+3579,Product D,3,95,2023-08-21,North America
+3580,Product A,4,87,2023-09-23,Asia
+3581,Product C,3,76,2023-03-27,North America
+3582,Product A,4,21,2023-04-12,South America
+3583,Product D,1,21,2023-08-02,Europe
+3584,Product D,3,75,2023-04-18,South America
+3585,Product A,3,11,2023-06-14,Asia
+3586,Product C,1,24,2023-04-01,South America
+3587,Product A,3,32,2023-07-11,South America
+3588,Product D,1,38,2023-12-01,North America
+3589,Product A,2,90,2023-03-27,South America
+3590,Product D,4,16,2023-08-10,North America
+3591,Product A,1,37,2023-12-29,North America
+3592,Product C,3,23,2023-04-11,Europe
+3593,Product C,1,53,2023-08-14,Asia
+3594,Product A,3,39,2023-12-30,Asia
+3595,Product A,2,90,2023-03-01,Asia
+3596,Product C,1,41,2023-09-07,North America
+3597,Product D,2,79,2023-02-17,Asia
+3598,Product C,4,97,2023-04-27,North America
+3599,Product D,3,15,2023-08-15,Europe
+3600,Product A,3,36,2023-12-28,Asia
+3601,Product A,2,91,2023-02-02,North America
+3602,Product D,4,97,2023-02-13,Asia
+3603,Product A,1,33,2023-06-14,Asia
+3604,Product D,1,43,2023-12-11,Europe
+3605,Product B,3,49,2023-10-19,South America
+3606,Product C,2,56,2023-12-03,Asia
+3607,Product B,2,88,2023-12-10,Europe
+3608,Product D,1,84,2023-10-14,Asia
+3609,Product C,4,95,2023-12-30,Asia
+3610,Product D,4,33,2023-08-13,Asia
+3611,Product C,1,74,2023-10-13,Asia
+3612,Product C,1,27,2023-07-23,South America
+3613,Product C,2,53,2023-06-21,South America
+3614,Product C,4,85,2023-01-12,Asia
+3615,Product D,1,66,2023-11-03,Asia
+3616,Product C,1,37,2023-05-01,Europe
+3617,Product C,3,80,2023-09-01,Europe
+3618,Product B,1,32,2023-06-01,North America
+3619,Product A,1,94,2023-06-01,South America
+3620,Product A,4,43,2023-07-07,Asia
+3621,Product B,2,20,2023-01-13,South America
+3622,Product B,4,95,2023-04-01,Europe
+3623,Product D,2,44,2023-07-19,South America
+3624,Product D,3,51,2023-03-15,South America
+3625,Product D,1,37,2023-09-13,Asia
+3626,Product B,3,91,2023-10-03,Asia
+3627,Product B,2,87,2023-11-24,Europe
+3628,Product C,4,91,2023-11-25,Asia
+3629,Product D,4,33,2023-03-12,Europe
+3630,Product D,3,17,2023-03-19,Europe
+3631,Product D,2,62,2023-10-11,North America
+3632,Product A,3,81,2023-05-10,North America
+3633,Product C,3,13,2023-02-12,North America
+3634,Product D,1,14,2023-01-08,South America
+3635,Product D,3,58,2023-01-13,North America
+3636,Product D,1,39,2023-08-01,Asia
+3637,Product A,1,81,2023-04-21,Asia
+3638,Product A,4,72,2023-10-18,North America
+3639,Product B,1,56,2023-01-23,South America
+3640,Product C,1,35,2023-10-29,Europe
+3641,Product B,4,66,2023-09-11,South America
+3642,Product C,3,46,2023-01-15,South America
+3643,Product A,2,16,2023-05-10,Europe
+3644,Product D,2,49,2023-03-02,Europe
+3645,Product B,2,48,2023-04-25,Europe
+3646,Product D,3,71,2023-11-16,Asia
+3647,Product B,1,87,2023-11-04,Europe
+3648,Product A,2,62,2023-11-21,Europe
+3649,Product A,3,13,2023-03-08,South America
+3650,Product A,1,91,2023-09-06,South America
